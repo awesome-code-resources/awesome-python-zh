@@ -114,7 +114,7 @@
 ## Admin Panels
   
 
-用于管理接口的库。
+*用于管理接口的库。*
 
   
 
@@ -132,7 +132,7 @@
 ## Algorithms and Design Patterns
   
 
-数据结构、算法和设计模式的Python实现。另请参阅 [awesome-算法](https://github.com/tayllan/awesome-算法)。
+*数据结构、算法和设计模式的Python实现。另请参阅 [awesome-算法](https://github.com/tayllan/awesome-算法)。*
 
   
 
@@ -150,7 +150,7 @@
 ## ASGI Servers
   
 
-[ASGI](https:// asgi.Readthepocs.io/en/latest/)-兼容的web服务器。
+*[ASGI](https:// asgi.Readthepocs.io/en/latest/)-兼容的web服务器。*
 
   
 
@@ -171,7 +171,7 @@
 ## Audio
   
 
-用于操作音频及其元数据的库。
+*用于操作音频及其元数据的库。*
 
   
 
@@ -196,7 +196,7 @@
 ## Authentication
   
 
-用于实现认证方案的库。
+*用于实现认证方案的库。*
 
   
 
@@ -216,7 +216,7 @@
 ## Build Tools
   
 
-从源代码编译软件。
+*从源代码编译软件。*
 
   
 
@@ -230,7 +230,7 @@
 ## Built-in Classes Enhancement
   
 
-用于增强Python内置类的库。
+*用于增强Python内置类的库。*
 
   
 
@@ -244,7 +244,7 @@
 ## CMS
   
 
-内容管理系统。
+*内容管理系统。*
 
   
 
@@ -261,7 +261,7 @@
 ## Caching
   
 
-用于缓存数据的库。
+*用于缓存数据的库。*
 
   
 
@@ -277,7 +277,7 @@
 ## ChatOps Tools
   
 
-用于聊天机器人开发的库。
+*用于聊天机器人开发的库。*
 
   
 
@@ -287,7 +287,7 @@
 ## Code Analysis
   
 
-静态分析工具，短线和代码质量检查器。另请参阅 [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)。
+*静态分析工具，短线和代码质量检查器。另请参阅 [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)。*
 
   
 
@@ -319,7 +319,7 @@
 ## Command-line Interface Development
   
 
-用于构建命令行应用程序的库。
+*用于构建命令行应用程序的库。*
 
   
 
@@ -342,7 +342,7 @@
 ## Command-line Tools
   
 
-基于CLI的有用工具，可提高工作效率。
+*基于CLI的有用工具，可提高工作效率。*
 
   
 
@@ -370,7 +370,7 @@
 ## Compatibility
   
 
-从Python 2迁移到3的库。
+*从Python 2迁移到3的库。*
 
   
 
@@ -382,7 +382,7 @@
 ## Computer Vision
   
 
-计算机视觉库。
+*计算机视觉库。*
 
   
 
@@ -398,7 +398,7 @@
 ## Concurrency and Parallelism
   
 
-用于并发和并行执行的库。另请参阅 [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)。
+*用于并发和并行执行的库。另请参阅 [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)。*
 
   
 
@@ -413,7 +413,7 @@
 ## Configuration
   
 
-用于存储和解析配置选项的库。
+*用于存储和解析配置选项的库。*
 
   
 
@@ -436,7 +436,7 @@
 ## Data Analysis
   
 
-用于数据分析的库。
+*用于数据分析的库。*
 
   
 
@@ -451,7 +451,7 @@
 ## Data Validation
   
 
-用于验证数据的库。在许多情况下用于表单。
+*用于验证数据的库。在许多情况下用于表单。*
 
   
 
@@ -467,7 +467,7 @@
 ## Data Visualization
   
 
-用于可视化数据的库。另请参阅 [awesome-javascript](https://github.com/sorrycc/awesome-javascript # 数据可视化)。
+*用于可视化数据的库。另请参阅 [awesome-javascript](https://github.com/sorrycc/awesome-javascript # 数据可视化)。*
 
   
 
@@ -490,7 +490,7 @@
 ## Database
   
 
-用Python实现的数据库。
+*用Python实现的数据库。*
 
   
 
@@ -502,7 +502,7 @@
 ## Database Drivers
   
 
-用于连接和操作数据库的库。
+*用于连接和操作数据库的库。*
 
   
 
@@ -532,7 +532,7 @@
 ## Date and Time
   
 
-用于处理日期和时间的库。
+*用于处理日期和时间的库。*
 
   
 
@@ -551,7 +551,7 @@
 ## Debugging Tools
   
 
-用于调试代码的库。
+*用于调试代码的库。*
 
   
 
@@ -582,7 +582,7 @@
 ## Deep Learning
   
 
-神经网络和深度学习的框架。另请参阅 [真棒深度学习](https://github.com/ChristosChristofidis/真棒深度学习)。
+*神经网络和深度学习的框架。另请参阅 [真棒深度学习](https://github.com/ChristosChristofidis/真棒深度学习)。*
 
   
 
@@ -599,7 +599,7 @@
 ## DevOps Tools
   
 
-DevOps的软件和库。
+*DevOps的软件和库。*
 
   
 
@@ -627,7 +627,7 @@ DevOps的软件和库。
 ## Distributed Computing
   
 
-用于分布式计算的框架和库。
+*用于分布式计算的框架和库。*
 
   
 
@@ -645,7 +645,7 @@ DevOps的软件和库。
 ## Distribution
   
 
-库来创建打包的可执行文件以进行发布分发。
+*库来创建打包的可执行文件以进行发布分发。*
 
   
 
@@ -662,7 +662,7 @@ DevOps的软件和库。
 ## Documentation
   
 
-用于生成项目文档的库。
+*用于生成项目文档的库。*
 
   
 
@@ -675,7 +675,7 @@ DevOps的软件和库。
 ## Downloader
   
 
-用于下载的库。
+*用于下载的库。*
 
   
 
@@ -689,7 +689,7 @@ DevOps的软件和库。
 ## E-commerce
   
 
-电子商务和支付的框架和库。
+*电子商务和支付的框架和库。*
 
   
 
@@ -729,7 +729,7 @@ DevOps的软件和库。
 ## Email
   
 
-用于发送和解析电子邮件的库。
+*用于发送和解析电子邮件的库。*
 
   
 
@@ -747,7 +747,7 @@ DevOps的软件和库。
 ## Enterprise Application Integrations
   
 
-用于企业环境中系统集成的平台和工具
+*用于企业环境中系统集成的平台和工具*
 
   
 
@@ -757,7 +757,7 @@ DevOps的软件和库。
 ## Environment Management
   
 
-用于Python版本和虚拟环境管理的库。
+*用于Python版本和虚拟环境管理的库。*
 
   
 
@@ -768,7 +768,7 @@ DevOps的软件和库。
 ## File
   
 
-用于文件操作和MIME类型检测的库。
+*用于文件操作和MIME类型检测的库。*
 
   
 
@@ -784,7 +784,7 @@ DevOps的软件和库。
 ## Foreign Function Interface
   
 
-用于提供外部函数接口的库。
+*用于提供外部函数接口的库。*
 
   
 
@@ -797,7 +797,7 @@ DevOps的软件和库。
 ## Forms
   
 
-用于处理表单的库。
+*用于处理表单的库。*
 
   
 
@@ -812,7 +812,7 @@ DevOps的软件和库。
 ## Functional Programming
   
 
-用Python进行函数编程。
+*用Python进行函数编程。*
 
   
 
@@ -828,7 +828,7 @@ DevOps的软件和库。
 ## GUI Development
   
 
-用于处理图形用户界面应用程序的库。
+*用于处理图形用户界面应用程序的库。*
 
   
 
@@ -853,7 +853,7 @@ DevOps的软件和库。
 ## GraphQL
   
 
-使用GraphQL的库。
+*使用GraphQL的库。*
 
   
 
@@ -866,7 +866,7 @@ DevOps的软件和库。
 ## Game Development
   
 
-真棒游戏开发库。
+*真棒游戏开发库。*
 
   
 
@@ -884,7 +884,7 @@ DevOps的软件和库。
 ## Geolocation
   
 
-用于地理编码地址和处理纬度和经度的库。
+*用于地理编码地址和处理纬度和经度的库。*
 
   
 
@@ -898,7 +898,7 @@ DevOps的软件和库。
 ## HTML Manipulation
   
 
-使用HTML和XML的库。
+*使用HTML和XML的库。*
 
   
 
@@ -918,7 +918,7 @@ DevOps的软件和库。
 ## HTTP Clients
   
 
-使用HTTP的库。
+*使用HTTP的库。*
 
   
 
@@ -933,7 +933,7 @@ DevOps的软件和库。
 ## Hardware
   
 
-用于硬件编程的库。
+*用于硬件编程的库。*
 
   
 
@@ -948,7 +948,7 @@ DevOps的软件和库。
 ## Image Processing
   
 
-用于操作图像的库。
+*用于操作图像的库。*
 
   
 
@@ -972,12 +972,12 @@ DevOps的软件和库。
 ## Implementations
   
 
-Python的实现。
+*Python的实现。*
 
   
 
 * [CLPython](https://github.com/metawilm/cl-python)  — 用Common Lisp编写的Python编程语言的实现。 
-[CPython](https://github.com/python/cpython)-
+*[CPython](https://github.com/python/cpython)-*
 * 默认情况下，使用最广泛的Python编程语言用C编写的实现。** 
 * [Cython](http://cython.org/)  — 优化Python的静态编译器。 
 * [Grumpy](https://github.com/google/grumpy)  — 更多的编译器比解释器更强大的CPython2.7替换 (alpha)。 
@@ -995,7 +995,7 @@ Python的实现。
 ## Interactive Interpreter
   
 
-交互式Python解释器 (REPL)。
+*交互式Python解释器 (REPL)。*
 
   
 
@@ -1008,7 +1008,7 @@ Python的实现。
 ## Internationalization
   
 
-用于使用i18n的库。
+*用于使用i18n的库。*
 
   
 
@@ -1019,7 +1019,7 @@ Python的实现。
 ## Job Scheduler
   
 
-用于调度作业的库。
+*用于调度作业的库。*
 
   
 
@@ -1039,7 +1039,7 @@ Python的实现。
 ## Logging
   
 
-用于生成和处理日志的库。
+*用于生成和处理日志的库。*
 
   
 
@@ -1053,7 +1053,7 @@ Python的实现。
 ## Machine Learning
   
 
-机器学习库。另请参阅 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning # python)。
+*机器学习库。另请参阅 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning # python)。*
 
   
 
@@ -1071,7 +1071,7 @@ Python的实现。
 ## Microsoft Windows
   
 
-Microsoft Windows上的Python编程。
+*Microsoft Windows上的Python编程。*
 
   
 
@@ -1085,7 +1085,7 @@ Microsoft Windows上的Python编程。
 ## Miscellaneous
   
 
-不适合上述类别的有用库或工具。
+*不适合上述类别的有用库或工具。*
 
   
 
@@ -1100,7 +1100,7 @@ Microsoft Windows上的Python编程。
 ## Natural Language Processing
   
 
-使用人类语言的库。
+*使用人类语言的库。*
 
   
 
@@ -1124,7 +1124,7 @@ Microsoft Windows上的Python编程。
 ## Network Virtualization
   
 
-用于虚拟网络和SDN (软件定义网络) 的工具和库。
+*用于虚拟网络和SDN (软件定义网络) 的工具和库。*
 
   
 
@@ -1136,7 +1136,7 @@ Microsoft Windows上的Python编程。
 ## News Feed
   
 
-用于构建用户活动的库。
+*用于构建用户活动的库。*
 
   
 
@@ -1147,7 +1147,7 @@ Microsoft Windows上的Python编程。
 ## ORM
   
 
-实现对象关系映射或数据映射技术的库。
+*实现对象关系映射或数据映射技术的库。*
 
   
 
@@ -1171,7 +1171,7 @@ Microsoft Windows上的Python编程。
 ## Package Management
   
 
-用于包和依赖关系管理的库。
+*用于包和依赖关系管理的库。*
 
   
 
@@ -1185,7 +1185,7 @@ Microsoft Windows上的Python编程。
 ## Package Repositories
   
 
-本地PyPI存储库服务器和代理。
+*本地PyPI存储库服务器和代理。*
 
   
 
@@ -1198,7 +1198,7 @@ Microsoft Windows上的Python编程。
 ## Penetration Testing
   
 
-渗透测试的框架和工具。
+*渗透测试的框架和工具。*
 
   
 
@@ -1210,7 +1210,7 @@ Microsoft Windows上的Python编程。
 ## Permissions
   
 
-允许或拒绝用户访问数据或功能的库。
+*允许或拒绝用户访问数据或功能的库。*
 
   
 
@@ -1221,7 +1221,7 @@ Microsoft Windows上的Python编程。
 ## Processes
   
 
-用于启动和与操作系统进程通信的库。
+*用于启动和与操作系统进程通信的库。*
 
   
 
@@ -1233,7 +1233,7 @@ Microsoft Windows上的Python编程。
 ## Recommender Systems
   
 
-用于构建推荐系统的库。
+*用于构建推荐系统的库。*
 
   
 
@@ -1250,7 +1250,7 @@ Microsoft Windows上的Python编程。
 ## Refactoring
   
 
-Python的重构工具和库
+*Python的重构工具和库*
 
   
 
@@ -1262,7 +1262,7 @@ Python的重构工具和库
 ## RESTful API
   
 
-用于构建RESTful api的库。
+*用于构建RESTful api的库。*
 
   
 
@@ -1288,7 +1288,7 @@ Python的重构工具和库
 ## Robotics
   
 
-机器人图书馆。
+*机器人图书馆。*
 
   
 
@@ -1299,7 +1299,7 @@ Python的重构工具和库
 ## RPC Servers
   
 
-RPC兼容服务器。
+*RPC兼容服务器。*
 
   
 
@@ -1310,7 +1310,7 @@ RPC兼容服务器。
 ## Science
   
 
-科学计算图书馆。另请参阅 [Python-for-scientifics](https://github.com/TomNicholas/Python-for-scientifics)。
+*科学计算图书馆。另请参阅 [Python-for-scientifics](https://github.com/TomNicholas/Python-for-scientifics)。*
 
   
 
@@ -1340,7 +1340,7 @@ RPC兼容服务器。
 ## Search
   
 
-用于对数据进行索引和执行搜索查询的库和软件。
+*用于对数据进行索引和执行搜索查询的库和软件。*
 
   
 
@@ -1354,7 +1354,7 @@ RPC兼容服务器。
 ## Serialization
   
 
-用于序列化复杂数据类型的库
+*用于序列化复杂数据类型的库*
 
   
 
@@ -1367,7 +1367,7 @@ RPC兼容服务器。
 ## Serverless Frameworks
   
 
-开发无服务器Python代码的框架。
+*开发无服务器Python代码的框架。*
 
   
 
@@ -1378,7 +1378,7 @@ RPC兼容服务器。
 ## Shell
   
 
-基于Python的shell。
+*基于Python的shell。*
 
   
 
@@ -1388,7 +1388,7 @@ RPC兼容服务器。
 ## Specific Formats Processing
   
 
-用于解析和处理特定文本格式的库。
+*用于解析和处理特定文本格式的库。*
 
   
 
@@ -1422,7 +1422,7 @@ RPC兼容服务器。
 ## Static Site Generator
   
 
-静态站点生成器是一种软件，它将一些文本模板作为输入，并在输出上生成HTML文件。
+*静态站点生成器是一种软件，它将一些文本模板作为输入，并在输出上生成HTML文件。*
 
   
 
@@ -1436,7 +1436,7 @@ RPC兼容服务器。
 ## Tagging
   
 
-用于标记项目的库。
+*用于标记项目的库。*
 
   
 
@@ -1446,7 +1446,7 @@ RPC兼容服务器。
 ## Task Queues
   
 
-用于处理任务队列的库。
+*用于处理任务队列的库。*
 
   
 
@@ -1460,7 +1460,7 @@ RPC兼容服务器。
 ## Template Engine
   
 
-用于模板和词法的库和工具。
+*用于模板和词法的库和工具。*
 
   
 
@@ -1472,7 +1472,7 @@ RPC兼容服务器。
 ## Testing
   
 
-用于测试代码库和生成测试数据的库。
+*用于测试代码库和生成测试数据的库。*
 
   
 
@@ -1518,7 +1518,7 @@ RPC兼容服务器。
 ## Text Processing
   
 
-用于解析和处理纯文本的库。
+*用于解析和处理纯文本的库。*
 
   
 
@@ -1553,7 +1553,7 @@ RPC兼容服务器。
 ## Third-party APIs
   
 
-用于访问第三方服务api的库。另请参阅 [Python API包装和库列表](https://github.com/realpython/List-of-python-api-wrappers)。
+*用于访问第三方服务api的库。另请参阅 [Python API包装和库列表](https://github.com/realpython/List-of-python-api-wrappers)。*
 
   
 
@@ -1569,7 +1569,7 @@ RPC兼容服务器。
 ## URL Manipulation
   
 
-用于解析url的库。
+*用于解析url的库。*
 
   
 
@@ -1582,7 +1582,7 @@ RPC兼容服务器。
 ## Video
   
 
-用于操作视频和gif的库。
+*用于操作视频和gif的库。*
 
   
 
@@ -1594,7 +1594,7 @@ RPC兼容服务器。
 ## Web Asset Management
   
 
-用于管理，压缩和缩小网站资产的工具。
+*用于管理，压缩和缩小网站资产的工具。*
 
   
 
@@ -1610,7 +1610,7 @@ RPC兼容服务器。
 ## Web Content Extracting
   
 
-用于提取web内容的库。
+*用于提取web内容的库。*
 
   
 
@@ -1628,7 +1628,7 @@ RPC兼容服务器。
 ## Web Crawling
   
 
-自动进行web抓取的库。
+*自动进行web抓取的库。*
 
   
 
@@ -1645,7 +1645,7 @@ RPC兼容服务器。
 ## Web Frameworks
   
 
-传统的全栈web框架。另请参阅 [RESTful API](https://github.com/vinta/awesome-python # restful-api)。
+*传统的全栈web框架。另请参阅 [RESTful API](https://github.com/vinta/awesome-python # restful-api)。*
 
   
 
@@ -1665,7 +1665,7 @@ RPC兼容服务器。
 ## WebSocket
   
 
-用于使用WebSocket的库。
+*用于使用WebSocket的库。*
 
   
 
@@ -1677,7 +1677,7 @@ RPC兼容服务器。
 ## WSGI Servers
   
 
-兼容WSGI的web服务器。
+*兼容WSGI的web服务器。*
 
   
 
