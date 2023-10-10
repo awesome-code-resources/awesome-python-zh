@@ -114,7 +114,8 @@
 ## Admin Panels
   
 
-*Libraries for administrative interfaces.*
+用于管理接口的库。
+
   
 
 * [ajenti](https://github.com/ajenti/ajenti)  — 您的服务器应得的管理面板。 
@@ -131,7 +132,8 @@
 ## Algorithms and Design Patterns
   
 
-*Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
+数据结构、算法和设计模式的Python实现。另请参阅 [awesome-算法](https://github.com/tayllan/awesome-算法)。
+
   
 
 * Algorithms
@@ -148,7 +150,8 @@
 ## ASGI Servers
   
 
-*[ASGI](https://asgi.readthedocs.io/en/latest/)-compatible web servers.*
+[ASGI](https:// asgi.Readthepocs.io/en/latest/)-兼容的web服务器。
+
   
 
 * [daphne](https://github.com/django/daphne)  — 用于ASGI和asgi-http的HTTP、HTTP2和WebSocket协议服务器。 
@@ -168,7 +171,8 @@
 ## Audio
   
 
-*Libraries for manipulating audio and its metadata.*
+用于操作音频及其元数据的库。
+
   
 
 * Audio
@@ -192,7 +196,8 @@
 ## Authentication
   
 
-*Libraries for implementing authentications schemes.*
+用于实现认证方案的库。
+
   
 
 * OAuth
@@ -211,7 +216,8 @@
 ## Build Tools
   
 
-*Compile software from source code.*
+从源代码编译软件。
+
   
 
 * [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html)  — 嵌入式Linux的类似制作的构建工具。 
@@ -224,7 +230,8 @@
 ## Built-in Classes Enhancement
   
 
-*Libraries for enhancing Python built-in classes.*
+用于增强Python内置类的库。
+
   
 
 * [attrs](https://github.com/python-attrs/attrs)  — 替换类定义中的 '__init__' 、 '__eq__' 、 '__repr__' 等样板。 
@@ -237,7 +244,8 @@
 ## CMS
   
 
-*Content Management Systems.*
+内容管理系统。
+
   
 
 * [django-cms](https://www.django-cms.org/en/)  — 基于Django的开源企业CMS。 
@@ -253,7 +261,8 @@
 ## Caching
   
 
-*Libraries for caching data.*
+用于缓存数据的库。
+
   
 
 * [beaker](https://github.com/bbangert/beaker)  — 用于会话和缓存的WSGI中间件。 
@@ -268,7 +277,8 @@
 ## ChatOps Tools
   
 
-*Libraries for chatbot development.*
+用于聊天机器人开发的库。
+
   
 
 * [errbot](https://github.com/errbotio/errbot/)  — 实现ChatOps的最简单和最受欢迎的聊天机器人。 
@@ -277,7 +287,8 @@
 ## Code Analysis
   
 
-*Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis](https://github.com/mre/awesome-static-analysis).*
+静态分析工具，短线和代码质量检查器。另请参阅 [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)。
+
   
 
 * Code Analysis
@@ -308,7 +319,8 @@
 ## Command-line Interface Development
   
 
-*Libraries for building command-line applications.*
+用于构建命令行应用程序的库。
+
   
 
 * Command-line Application Development
@@ -330,7 +342,8 @@
 ## Command-line Tools
   
 
-*Useful CLI-based tools for productivity.*
+基于CLI的有用工具，可提高工作效率。
+
   
 
 * Productivity Tools
@@ -357,7 +370,8 @@
 ## Compatibility
   
 
-*Libraries for migrating from Python 2 to 3.*
+从Python 2迁移到3的库。
+
   
 
 * [python-future](http://python-future.org/index.html)  — Python 2和Python 3之间缺少兼容层。 
@@ -368,7 +382,8 @@
 ## Computer Vision
   
 
-*Libraries for Computer Vision.*
+计算机视觉库。
+
   
 
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR)  — 支持40种语言的即用型OCR。 
@@ -383,7 +398,8 @@
 ## Concurrency and Parallelism
   
 
-*Libraries for concurrent and parallel execution. Also see [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio).*
+用于并发和并行执行的库。另请参阅 [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)。
+
   
 
 * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)  — (Python标准库) 用于异步执行可调用对象的高级接口。 
@@ -397,7 +413,8 @@
 ## Configuration
   
 
-*Libraries for storing and parsing configuration options.*
+用于存储和解析配置选项的库。
+
   
 
 * [configobj](https://github.com/DiffSK/configobj)  — 具有验证的INI文件解析器。 
@@ -419,7 +436,8 @@
 ## Data Analysis
   
 
-*Libraries for data analyzing.*
+用于数据分析的库。
+
   
 
 * [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  — AWS上的熊猫。 
@@ -433,7 +451,8 @@
 ## Data Validation
   
 
-*Libraries for validating data. Used for forms in many cases.*
+用于验证数据的库。在许多情况下用于表单。
+
   
 
 * [Cerberus](https://github.com/pyeve/cerberus)  — 一个轻量级和可扩展的数据验证库。 
@@ -448,7 +467,8 @@
 ## Data Visualization
   
 
-*Libraries for visualizing data. Also see [awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization).*
+用于可视化数据的库。另请参阅 [awesome-javascript](https://github.com/sorrycc/awesome-javascript # 数据可视化)。
+
   
 
 * [Altair](https://github.com/altair-viz/altair)  — 适用于Python的声明性统计可视化库 
@@ -470,7 +490,8 @@
 ## Database
   
 
-*Databases implemented in Python.*
+用Python实现的数据库。
+
   
 
 * [pickleDB](https://github.com/patx/pickledb)  — 一个简单而轻量级的Python键值存储。 
@@ -481,7 +502,8 @@
 ## Database Drivers
   
 
-*Libraries for connecting and operating databases.*
+用于连接和操作数据库的库。
+
   
 
 * MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
@@ -510,7 +532,8 @@
 ## Date and Time
   
 
-*Libraries for working with dates and times.*
+用于处理日期和时间的库。
+
   
 
 * [Arrow](https://arrow.readthedocs.io/en/latest/)  — 一个Python库，提供了一种明智且人性化的方法来创建，操作，格式化和转换日期，时间和时间戳。 
@@ -528,7 +551,8 @@
 ## Debugging Tools
   
 
-*Libraries for debugging code.*
+用于调试代码的库。
+
   
 
 * pdb-like Debugger
@@ -558,7 +582,8 @@
 ## Deep Learning
   
 
-*Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
+神经网络和深度学习的框架。另请参阅 [真棒深度学习](https://github.com/ChristosChristofidis/真棒深度学习)。
+
   
 
 * [caffe](https://github.com/BVLC/caffe)  — 一个快速开放的深度学习框架 
@@ -574,7 +599,8 @@
 ## DevOps Tools
   
 
-*Software and libraries for DevOps.*
+DevOps的软件和库。
+
   
 
 * Configuration Management
@@ -601,7 +627,8 @@
 ## Distributed Computing
   
 
-*Frameworks and libraries for Distributed Computing.*
+用于分布式计算的框架和库。
+
   
 
 * Batch Processing
@@ -618,7 +645,8 @@
 ## Distribution
   
 
-*Libraries to create packaged executables for release distribution.*
+库来创建打包的可执行文件以进行发布分发。
+
   
 
 * [dh-virtualenv](https://github.com/spotify/dh-virtualenv)  — 构建并分发virtualenv作为Debian软件包。 
@@ -634,7 +662,8 @@
 ## Documentation
   
 
-*Libraries for generating project documentation.*
+用于生成项目文档的库。
+
   
 
 * [sphinx](https://github.com/sphinx-doc/sphinx/)  — Python文档生成器。 
@@ -646,7 +675,8 @@
 ## Downloader
   
 
-*Libraries for downloading.*
+用于下载的库。
+
   
 
 * [akshare](https://github.com/jindaxiang/akshare)  — 一个金融数据接口库，为人类打造! 
@@ -659,7 +689,8 @@
 ## E-commerce
   
 
-*Frameworks and libraries for e-commerce and payments.*
+电子商务和支付的框架和库。
+
   
 
 * [alipay](https://github.com/lxneng/alipay)  — Python的非官方支付宝API。 
@@ -698,7 +729,8 @@
 ## Email
   
 
-*Libraries for sending and parsing email.*
+用于发送和解析电子邮件的库。
+
   
 
 * Mail Servers
@@ -715,7 +747,8 @@
 ## Enterprise Application Integrations
   
 
-*Platforms and tools for systems integrations in enterprise environments*
+用于企业环境中系统集成的平台和工具
+
   
 
 * [Zato](https://zato.io)  — Python中的ESB、SOA、REST、api和云集成。 
@@ -724,7 +757,8 @@
 ## Environment Management
   
 
-*Libraries for Python version and virtual environment management.*
+用于Python版本和虚拟环境管理的库。
+
   
 
 * [pyenv](https://github.com/pyenv/pyenv)  — 简单的Python版本管理。 
@@ -734,7 +768,8 @@
 ## File
   
 
-*Libraries for file manipulation and MIME type detection.*
+用于文件操作和MIME类型检测的库。
+
   
 
 * [mimetypes](https://docs.python.org/3/library/mimetypes.html)  — (Python标准库) 将文件名映射到MIME类型。 
@@ -749,7 +784,8 @@
 ## Foreign Function Interface
   
 
-*Libraries for providing foreign function interface.*
+用于提供外部函数接口的库。
+
   
 
 * [cffi](https://pypi.org/project/cffi/)  — Python调用C代码的外部函数接口。 
@@ -761,7 +797,8 @@
 ## Forms
   
 
-*Libraries for working with forms.*
+用于处理表单的库。
+
   
 
 * [Deform](https://github.com/Pylons/deform)  — Python HTML表单生成库受formish表单生成库的影响。 
@@ -775,7 +812,8 @@
 ## Functional Programming
   
 
-*Functional Programming with Python.*
+用Python进行函数编程。
+
   
 
 * [Coconut](https://github.com/evhub/coconut)  — Python的变体，用于简单，优雅，Pythonic函数式编程。 
@@ -790,7 +828,8 @@
 ## GUI Development
   
 
-*Libraries for working with graphical user interface applications.*
+用于处理图形用户界面应用程序的库。
+
   
 
 * [curses](https://docs.python.org/3/library/curses.html)  — 用于创建终端GUI应用程序的 [ncurses](http://www.gnu.org/software/ncurses/) 内置包装器。 
@@ -814,7 +853,8 @@
 ## GraphQL
   
 
-*Libraries for working with GraphQL.*
+使用GraphQL的库。
+
   
 
 * [graphene](https://github.com/graphql-python/graphene/)  — Python的GraphQL框架。 
@@ -826,7 +866,8 @@
 ## Game Development
   
 
-*Awesome game development libraries.*
+真棒游戏开发库。
+
   
 
 * [Arcade](https://api.arcade.academy/en/latest/)  — Arcade是一个现代的Python框架，用于制作具有引人注目的图形和声音的游戏。 
@@ -843,7 +884,8 @@
 ## Geolocation
   
 
-*Libraries for geocoding addresses and working with latitudes and longitudes.*
+用于地理编码地址和处理纬度和经度的库。
+
   
 
 * [django-countries](https://github.com/SmileyChris/django-countries)  — 一个Django应用程序，为模型和表单提供国家字段。 
@@ -856,7 +898,8 @@
 ## HTML Manipulation
   
 
-*Libraries for working with HTML and XML.*
+使用HTML和XML的库。
+
   
 
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)  — 为迭代、搜索和修改HTML或XML提供Pythonic习语。 
@@ -875,7 +918,8 @@
 ## HTTP Clients
   
 
-*Libraries for working with HTTP.*
+使用HTTP的库。
+
   
 
 * [grequests](https://github.com/spyoungtech/grequests)  — 异步HTTP请求的请求gevent。 
@@ -889,7 +933,8 @@
 ## Hardware
   
 
-*Libraries for programming with hardware.*
+用于硬件编程的库。
+
   
 
 * [ino](http://inotool.org/)  — 用于使用 [Arduino](https:// www.arduino.cc/) 的命令行工具包。 
@@ -903,7 +948,8 @@
 ## Image Processing
   
 
-*Libraries for manipulating images.*
+用于操作图像的库。
+
   
 
 * [hmap](https://github.com/rossgoodwin/hmap)  — 图像直方图重新映射。 
@@ -926,11 +972,13 @@
 ## Implementations
   
 
-*Implementations of Python.*
+Python的实现。
+
   
 
 * [CLPython](https://github.com/metawilm/cl-python)  — 用Common Lisp编写的Python编程语言的实现。 
-* [CPython](https://github.com/python/cpython)  — ** 默认情况下，使用最广泛的Python编程语言用C编写的实现。** 
+[CPython](https://github.com/python/cpython)-
+* 默认情况下，使用最广泛的Python编程语言用C编写的实现。** 
 * [Cython](http://cython.org/)  — 优化Python的静态编译器。 
 * [Grumpy](https://github.com/google/grumpy)  — 更多的编译器比解释器更强大的CPython2.7替换 (alpha)。 
 * [IronPython](https://github.com/IronLanguages/ironpython3)  — 用C # 编写的Python编程语言的实现。 
@@ -947,7 +995,8 @@
 ## Interactive Interpreter
   
 
-*Interactive Python interpreters (REPL).*
+交互式Python解释器 (REPL)。
+
   
 
 * [bpython](https://github.com/bpython/bpython)  — Python解释器的花哨接口。 
@@ -959,7 +1008,8 @@
 ## Internationalization
   
 
-*Libraries for working with i18n.*
+用于使用i18n的库。
+
   
 
 * [Babel](http://babel.pocoo.org/en/latest/)  — Python的国际化库。 
@@ -969,7 +1019,8 @@
 ## Job Scheduler
   
 
-*Libraries for scheduling jobs.*
+用于调度作业的库。
+
   
 
 * [Airflow](https://airflow.apache.org/)  — Airflow是一个以编程方式创作、计划和监控工作流的平台。 
@@ -988,7 +1039,8 @@
 ## Logging
   
 
-*Libraries for generating and working with logs.*
+用于生成和处理日志的库。
+
   
 
 * [logbook](http://logbook.readthedocs.io/en/stable/)  — 日志记录替换Python。 
@@ -1001,7 +1053,8 @@
 ## Machine Learning
   
 
-*Libraries for Machine Learning. Also see [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python).*
+机器学习库。另请参阅 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning # python)。
+
   
 
 * [gym](https://github.com/openai/gym)  — 用于开发和比较强化学习算法的工具包。 
@@ -1018,7 +1071,8 @@
 ## Microsoft Windows
   
 
-*Python programming on Microsoft Windows.*
+Microsoft Windows上的Python编程。
+
   
 
 * [Python(x,y)](http://python-xy.github.io/)  — 基于Qt和Spyder的面向科学应用的Python发行版。 
@@ -1031,7 +1085,8 @@
 ## Miscellaneous
   
 
-*Useful libraries or tools that don't fit in the categories above.*
+不适合上述类别的有用库或工具。
+
   
 
 * [blinker](https://github.com/jek/blinker)  — 一个快速的Python进程内信号/事件调度系统。 
@@ -1045,7 +1100,8 @@
 ## Natural Language Processing
   
 
-*Libraries for working with human languages.*
+使用人类语言的库。
+
   
 
 - General
@@ -1068,7 +1124,8 @@
 ## Network Virtualization
   
 
-*Tools and libraries for Virtual Networking and SDN (Software Defined Networking).*
+用于虚拟网络和SDN (软件定义网络) 的工具和库。
+
   
 
 * [mininet](https://github.com/mininet/mininet)  — 一个流行的网络模拟器和用Python编写的API。 
@@ -1079,7 +1136,8 @@
 ## News Feed
   
 
-*Libraries for building user's activities.*
+用于构建用户活动的库。
+
   
 
 * [django-activity-stream](https://github.com/justquick/django-activity-stream)  — 从网站上的操作生成通用活动流。 
@@ -1089,7 +1147,8 @@
 ## ORM
   
 
-*Libraries that implement Object-Relational Mapping or data mapping techniques.*
+实现对象关系映射或数据映射技术的库。
+
   
 
 * Relational Databases
@@ -1112,7 +1171,8 @@
 ## Package Management
   
 
-*Libraries for package and dependency management.*
+用于包和依赖关系管理的库。
+
   
 
 * [pip](https://pip.pypa.io/en/stable/)  — Python的软件包安装程序。 
@@ -1125,7 +1185,8 @@
 ## Package Repositories
   
 
-*Local PyPI repository server and proxies.*
+本地PyPI存储库服务器和代理。
+
   
 
 * [bandersnatch](https://github.com/pypa/bandersnatch/)  — Python Packaging Authority (PyPA) 提供的PyPI镜像工具。 
@@ -1137,7 +1198,8 @@
 ## Penetration Testing
   
 
-*Frameworks and tools for penetration testing.*
+渗透测试的框架和工具。
+
   
 
 * [fsociety](https://github.com/Manisso/fsociety)  — 一个渗透测试框架。 
@@ -1148,7 +1210,8 @@
 ## Permissions
   
 
-*Libraries that allow or deny users access to data or functionality.*
+允许或拒绝用户访问数据或功能的库。
+
   
 
 * [django-guardian](https://github.com/django-guardian/django-guardian)  — Django 1.2的每个对象权限的实现 
@@ -1158,7 +1221,8 @@
 ## Processes
   
 
-*Libraries for starting and communicating with OS processes.*
+用于启动和与操作系统进程通信的库。
+
   
 
 * [delegator.py](https://github.com/amitt001/delegator.py)  — [子进程](https://docs.python.org/3/library/subprocess.html) 用于人类2.0。 
@@ -1169,7 +1233,8 @@
 ## Recommender Systems
   
 
-*Libraries for building recommender systems.*
+用于构建推荐系统的库。
+
   
 
 * [annoy](https://github.com/spotify/annoy)  — 近似最近的邻居在C /Python内存使用优化。 
@@ -1185,7 +1250,8 @@
 ## Refactoring
   
 
-*Refactoring tools and libraries for Python*
+Python的重构工具和库
+
   
 
  * [Bicycle Repair Man](http://bicyclerepair.sourceforge.net/)  — 自行车修理工，一个Python的重构工具。 
@@ -1196,7 +1262,8 @@
 ## RESTful API
   
 
-*Libraries for building RESTful APIs.*
+用于构建RESTful api的库。
+
   
 
 * Django
@@ -1221,7 +1288,8 @@
 ## Robotics
   
 
-*Libraries for robotics.*
+机器人图书馆。
+
   
 
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  — 这是带有可视化的各种机器人算法的汇编。 
@@ -1231,7 +1299,8 @@
 ## RPC Servers
   
 
-*RPC-compatible servers.*
+RPC兼容服务器。
+
   
 
 * [RPyC](https://github.com/tomerfiliba/rpyc)  — (远程Python调用)-用于Python的透明且对称的RPC库 
@@ -1241,7 +1310,8 @@
 ## Science
   
 
-*Libraries for scientific computing. Also see [Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists).*
+科学计算图书馆。另请参阅 [Python-for-scientifics](https://github.com/TomNicholas/Python-for-scientifics)。
+
   
 
 * [astropy](http://www.astropy.org/)  — 一个用于天文学的社区Python库。 
@@ -1270,7 +1340,8 @@
 ## Search
   
 
-*Libraries and software for indexing and performing search queries on data.*
+用于对数据进行索引和执行搜索查询的库和软件。
+
   
 
 * [django-haystack](https://github.com/django-haystack/django-haystack)  — Django的模块化搜索。 
@@ -1283,7 +1354,8 @@
 ## Serialization
   
 
-*Libraries for serializing complex data types*
+用于序列化复杂数据类型的库
+
   
 
 * [marshmallow](https://github.com/marshmallow-code/marshmallow)  — 一个轻量级库，用于在简单的Python数据类型之间转换复杂对象。 
@@ -1295,7 +1367,8 @@
 ## Serverless Frameworks
   
 
-*Frameworks for developing serverless Python code.*
+开发无服务器Python代码的框架。
+
   
 
 * [python-lambda](https://github.com/nficano/python-lambda)  — 用于在AWS Lambda中开发和部署Python代码的工具包。 
@@ -1305,7 +1378,8 @@
 ## Shell
   
 
-*Shells based on Python.*
+基于Python的shell。
+
   
 
 * [xonsh](https://github.com/xonsh/xonsh/)  — Python驱动，跨平台，Unix凝视shell语言和命令提示符。 
@@ -1314,7 +1388,8 @@
 ## Specific Formats Processing
   
 
-*Libraries for parsing and manipulating specific text formats.*
+用于解析和处理特定文本格式的库。
+
   
 
 * General
@@ -1347,7 +1422,8 @@
 ## Static Site Generator
   
 
-*Static site generator is a software that takes some text + templates as input and produces HTML files on the output.*
+静态站点生成器是一种软件，它将一些文本模板作为输入，并在输出上生成HTML文件。
+
   
 
 * [lektor](https://github.com/lektor/lektor)  — 一个易于使用的静态CMS和博客引擎。 
@@ -1360,7 +1436,8 @@
 ## Tagging
   
 
-*Libraries for tagging items.*
+用于标记项目的库。
+
   
 
 * [django-taggit](https://github.com/jazzband/django-taggit)  — Django的简单标记。 
@@ -1369,7 +1446,8 @@
 ## Task Queues
   
 
-*Libraries for working with task queues.*
+用于处理任务队列的库。
+
   
 
 * [celery](https://docs.celeryproject.org/en/stable/)  — 基于分布式消息传递的异步任务队列/作业队列 
@@ -1382,7 +1460,8 @@
 ## Template Engine
   
 
-*Libraries and tools for templating and lexing.*
+用于模板和词法的库和工具。
+
   
 
 * [Genshi](https://genshi.edgewall.org/)  — 用于生成web感知输出的Python模板工具包。 
@@ -1393,7 +1472,8 @@
 ## Testing
   
 
-*Libraries for testing codebases and generating test data.*
+用于测试代码库和生成测试数据的库。
+
   
 
 * Testing Frameworks
@@ -1438,7 +1518,8 @@
 ## Text Processing
   
 
-*Libraries for parsing and manipulating plain texts.*
+用于解析和处理纯文本的库。
+
   
 
 * General
@@ -1472,7 +1553,8 @@
 ## Third-party APIs
   
 
-*Libraries for accessing third party services APIs. Also see [List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).*
+用于访问第三方服务api的库。另请参阅 [Python API包装和库列表](https://github.com/realpython/List-of-python-api-wrappers)。
+
   
 
 * [apache-libcloud](https://libcloud.apache.org/)  — 一个用于所有云的Python库。 
@@ -1487,7 +1569,8 @@
 ## URL Manipulation
   
 
-*Libraries for parsing URLs.*
+用于解析url的库。
+
   
 
 * [furl](https://github.com/gruns/furl)  — 一个小型Python库，使解析和操作url变得容易。 
@@ -1499,7 +1582,8 @@
 ## Video
   
 
-*Libraries for manipulating video and GIFs.*
+用于操作视频和gif的库。
+
   
 
 * [moviepy](https://zulko.github.io/moviepy/)  — 用于基于脚本的电影编辑的模块，具有多种格式，包括动画gif。 
@@ -1510,7 +1594,8 @@
 ## Web Asset Management
   
 
-*Tools for managing, compressing and minifying website assets.*
+用于管理，压缩和缩小网站资产的工具。
+
   
 
 * [django-compressor](https://github.com/django-compressor/django-compressor)  — 将链接和内联JavaScript或CSS压缩到单个缓存文件中。 
@@ -1525,7 +1610,8 @@
 ## Web Content Extracting
   
 
-*Libraries for extracting web contents.*
+用于提取web内容的库。
+
   
 
 * [html2text](https://github.com/Alir3z4/html2text)  — 将HTML转换为Markdown格式的文本。 
@@ -1542,7 +1628,8 @@
 ## Web Crawling
   
 
-*Libraries to automate web scraping.*
+自动进行web抓取的库。
+
   
 
 * [cola](https://github.com/chineking/cola)  — 一个分布式爬网框架。 
@@ -1558,7 +1645,8 @@
 ## Web Frameworks
   
 
-*Traditional full stack web frameworks. Also see [RESTful API](https://github.com/vinta/awesome-python#restful-api).*
+传统的全栈web框架。另请参阅 [RESTful API](https://github.com/vinta/awesome-python # restful-api)。
+
   
 
 * Synchronous
@@ -1577,7 +1665,8 @@
 ## WebSocket
   
 
-*Libraries for working with WebSocket.*
+用于使用WebSocket的库。
+
   
 
 * [autobahn-python](https://github.com/crossbario/autobahn-python)  — WebSocket和WAMP的Python的扭曲和 [asyncio](https://docs.python.org/3/library/asyncio.html)。 
@@ -1588,7 +1677,8 @@
 ## WSGI Servers
   
 
-*WSGI-compatible web servers.*
+兼容WSGI的web服务器。
+
   
 
 * [bjoern](https://github.com/jonashaag/bjoern)  — 异步，非常快，用C编写。 
