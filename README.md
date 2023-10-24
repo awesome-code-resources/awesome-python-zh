@@ -1,6 +1,8 @@
 # Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-🌟 如果您觉得这个项目很赞，就请点此[![GitHub stars](https://img.shields.io/github/stars/awesome-code-resources/awesome-python-zh.svg?style=social&label=Star)](https://github.com/awesome-code-resources/awesome-python-zh)为项目加星星
-🌟其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)
+🌟 如果您觉得这个项目很赞，就请点右上角的Star按钮为它加星星
+
+🌟 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)
+
 精选的Python框架，库，软件和资源列表。
 
 灵感来自[awesome-php](https://github.com/ziadoz/awesome-php)。
@@ -1227,8 +1229,10 @@
 * [werkzeug](https://github.com/pallets/werkzeug)-一个用于Python的WSGI实用程序库，为Flask提供动力，可以轻松地嵌入到您自己的项目中。
 
 # Resources
-🌟 如果您觉得这个项目很赞，就请点此[![GitHub stars](https://img.shields.io/github/stars/awesome-code-resources/awesome-python-zh.svg?style=social&label=Star)](https://github.com/awesome-code-resources/awesome-python-zh)为项目加星星
-🌟其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)
+🌟 如果您觉得这个项目很赞，就请点右上角的Star按钮为它加星星
+
+🌟 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)
+
 在哪里发现学习资源或新的Python库。
 
 ## 图书
@@ -1265,8 +1269,10 @@
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
 # Contributing
-🌟 如果您觉得这个项目很赞，就请点此[![GitHub stars](https://img.shields.io/github/stars/awesome-code-resources/awesome-python-zh.svg?style=social&label=Star)](https://github.com/awesome-code-resources/awesome-python-zh)为项目加星星
-🌟其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)
+🌟 如果您觉得这个项目很赞，就请点右上角的Star按钮为它加星星
+
+🌟 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)
+
 您的贡献总是受欢迎的!请看一下[contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md)首先。
 
 我会保持一些拉请求打开，如果我不知道这些库是否真棒，你可以[vote for them](https://github.com/vinta/awesome-python/pulls)通过添加: 1: 他们。拉取请求将在其投票达到时合并** 20** 。
