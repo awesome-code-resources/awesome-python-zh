@@ -1,11 +1,10 @@
-# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-如果您觉得这个项目对您有帮助，就请点右上角的Star按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
-
+如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+# Awesome Python[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的Python框架，库，软件和资源列表。
 
 灵感来自[awesome-php](https://github.com/ziadoz/awesome-php)。
 
-- [真棒Python](#真棒Python)
+- [Awesome Python](#Awesome-Python)
   - [管理面板](#管理面板)
   - [算法和设计模式](#算法和设计模式)
   - [ASGI服务器](#ASGI服务器)
@@ -470,7 +469,7 @@
 * SSH风格部署
   * [cuisine](https://github.com/sebastien/cuisine)-厨师般的面料功能。
   * [fabric](https://github.com/fabric/fabric)-一个简单的Pythonic工具，用于远程执行和部署。
-  * [fabtools](https://github.com/fabtools/fabtools)-用于编写真棒织物文件的工具。
+  * [fabtools](https://github.com/fabtools/fabtools)-用于编写Awesome 织物文件的工具。
 * 流程管理
   * [honcho](https://github.com/nickstenning/honcho)-一个Python克隆的[Foreman](https://github.com/ddollar/foreman),用于管理基于Procfile的应用程序。
   * [supervisor](https://github.com/Supervisor/supervisor)-主管过程控制系统的UNIX。
@@ -542,7 +541,7 @@
   * [elpy](https://github.com/jorgenschaefer/elpy)-Emacs Python开发环境。
 * 崇高的文本
   * [anaconda](https://github.com/DamnWidget/anaconda)-Anaconda在功能齐全的Python开发IDE中打开您的Sublime Text 3。
-  * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI)-一个崇高的文本插件真棒自动完成库绝地武士。
+  * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI)-一个崇高的文本插件Awesome 自动完成库绝地武士。
 * Vim
   * [jedi-vim](https://github.com/davidhalter/jedi-vim)-用于Python的Jedi自动完成库的Vim绑定。
   * [python-mode](https://github.com/python-mode/python-mode)-一个all in one插件，用于将Vim转换为Python IDE。
@@ -648,7 +647,7 @@
 * [tartiflette](https://tartiflette.io)-SDL-第一个用于Python 3.6和asyncio的GraphQL引擎实现。
 
 ## 游戏开发
-* 真棒游戏开发库。* 
+* Awesome 游戏开发库。* 
 
 * [Arcade](https://api.arcade.academy/en/latest/)-Arcade是一个现代的Python框架，用于制作具有引人注目的图形和声音的游戏。
 * [Cocos2d](http://cocos2d.org/)cocos2d是用于构建2D游戏，演示和其他图形/交互式应用程序的框架。
@@ -1226,9 +1225,7 @@
 * [waitress](https://github.com/Pylons/waitress)-多线程，权力金字塔。
 * [werkzeug](https://github.com/pallets/werkzeug)-一个用于Python的WSGI实用程序库，为Flask提供动力，可以轻松地嵌入到您自己的项目中。
 
-# Resources
-如果您觉得这个项目对您有帮助，就请点右上角的Star按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
-
+# 资源
 在哪里发现学习资源或新的Python库。
 
 ## 图书
@@ -1264,12 +1261,10 @@
 * [Test and Code](https://testandcode.com/)
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
-# Contributing
-如果您觉得这个项目对您有帮助，就请点右上角的Star按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+# 贡献
+您的贡献总是受欢迎的!请看一下[contribution guidelines](https://github.com/vinta/awesome-python/blob/master/%5Bthis%5D(CONTRIBUTING.md))首先。
 
-您的贡献总是受欢迎的!请看一下[contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md)首先。
-
-我会保持一些拉请求打开，如果我不知道这些库是否真棒，你可以[vote for them](https://github.com/vinta/awesome-python/pulls)通过添加: 1: 他们。拉取请求将在其投票达到时合并** 20** 。
+我会保持一些拉请求打开，如果我不知道这些库是否Awesome ，你可以[vote for them](https://github.com/vinta/awesome-python/pulls)通过添加: 1: 他们。拉取请求将在其投票达到时合并** 20** 。
 
 
 如果您对此自以为是的清单有任何疑问，请随时与我联系[@VintaChen](https://twitter.com/VintaChen)在Twitter上或在GitHub上打开一个问题。
