@@ -104,7 +104,7 @@
 - [贡献](#贡献)
 ## 管理面板
 
-* 用于管理接口的库。* 
+*用于管理接口的库。*
 
 * [ajenti](https://github.com/ajenti/ajenti)-您的服务器应得的管理面板。
 * [django-grappelli](https://grappelliproject.com/)-Django管理界面的爵士皮肤。
@@ -117,7 +117,7 @@
 * [wooey](https://github.com/wooey/wooey)-一个Django应用程序，它为Python脚本创建自动web UIs。
 ## 算法和设计模式
 
-* 数据结构、算法和设计模式的Python实现。另请参见[awesome-algorithms](https://github.com/tayllan/awesome-algorithms).* 
+* 数据结构、算法和设计模式的Python实现。另请参见[awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
 
 * 算法
   * [algorithms](https://github.com/keon/algorithms)-数据结构和算法的最小示例。
@@ -130,7 +130,7 @@
   * [transitions](https://github.com/pytransitions/transitions)-一个轻量级的、面向对象的有限状态机实现。
 ## ASGI服务器
 
-* [ASGI](https://asgi.readthedocs.io/en/latest/)-compatible web servers.* 
+* [ASGI](https://asgi.readthedocs.io/en/latest/)-compatible web servers.*
 
 * [daphne](https://github.com/django/daphne)-用于ASGI和asgi-http的HTTP、HTTP2和WebSocket协议服务器。
 * [uvicorn](https://github.com/encode/uvicorn)-一个闪电般的ASGI服务器实现，使用uvloop和httptools。
@@ -143,7 +143,7 @@
 * [uvloop](https://github.com/MagicStack/uvloop)-超快速asyncio事件循环。
 ## 音频
 
-* 用于操作音频及其元数据的库。* 
+* 用于操作音频及其元数据的库。*
 
 * 音频
   * [audioread](https://github.com/beetbox/audioread)-跨库 (GStreamer核心音频MAD FFmpeg) 音频解码。
@@ -163,7 +163,7 @@
   * [tinytag](https://github.com/devsnd/tinytag)-用于读取MP3，OGG，FLAC和Wave文件的音乐元数据的库。
 ## 身份验证
 
-* 用于实现认证方案的库。* 
+* 用于实现认证方案的库。*
 
 * OAuth
   * [authlib](https://github.com/lepture/authlib)-JavaScript对象签名和加密草案实现。
@@ -178,7 +178,7 @@
   * [python-jwt](https://github.com/davedoesdev/python-jwt)-用于生成和验证JSON Web令牌的模块。
 ## 构建工具
 
-* 从源代码编译软件。* 
+* 从源代码编译软件。*
 
 * [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html)-用于嵌入式Linux的类似制作的构建工具。
 * [buildout](http://www.buildout.org/en/latest/)-用于从多个部分创建，组装和部署应用程序的构建系统。
@@ -187,7 +187,7 @@
 * [SCons](http://www.scons.org/)-软件构建工具。
 ## 内置类增强功能
 
-* 用于增强Python内置类的库。* 
+* 用于增强Python内置类的库。*
 
 * [attrs](https://github.com/python-attrs/attrs)-更换,,等类定义中的样板文件。
 * [bidict](https://github.com/jab/bidict)-高效，Pythonic双向地图数据结构和相关功能。
@@ -196,7 +196,7 @@
 * [DottedDict](https://github.com/carlosescri/DottedDict)-一个库，它提供了一种使用点路径表示法访问列表和dicts的方法。
 ## CMS
 
-* 内容管理系统。* 
+* 内容管理系统。*
 
 * [django-cms](https://www.django-cms.org/en/)-基于Django的开源企业CMS。
 * [feincms](https://github.com/feincms/feincms)-基于Django的最先进的内容管理系统之一。
@@ -208,7 +208,7 @@
 * [wagtail](https://wagtail.io/)-一个Django内容管理系统。
 ## 缓存
 
-* 用于缓存数据的库。* 
+* 用于缓存数据的库。*
 
 * [beaker](https://github.com/bbangert/beaker)-用于会话和缓存的WSGI中间件。
 * [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine)-Django模型的自动缓存和失效。
@@ -219,12 +219,12 @@
 * [python-diskcache](http://www.grantjenks.com/docs/diskcache/)-SQLite和文件支持的缓存后端，具有比memcached和redis更快的查找速度。
 ## ChatOps工具
 
-* 用于聊天机器人开发的库。* 
+* 用于聊天机器人开发的库。*
 
 * [errbot](https://github.com/errbotio/errbot/)-实现ChatOps的最简单，最受欢迎的聊天机器人。
 ## 代码分析
 
-* 静态分析工具，短线和代码质量检查器。另请参见[awesome-static-analysis](https://github.com/mre/awesome-static-analysis).* 
+* 静态分析工具，短线和代码质量检查器。另请参见[awesome-static-analysis](https://github.com/mre/awesome-static-analysis).*
 
 * 代码分析
   * [coala](https://github.com/coala/coala/)-语言独立和易于扩展的代码分析应用程序。
@@ -251,7 +251,7 @@
   * [pytype](https://github.com/google/pytype)-Pytype检查和推断Python代码的类型-不需要类型注释。
 ## 命令行界面开发
 
-* 用于构建命令行应用程序的库。* 
+* 用于构建命令行应用程序的库。*
 
 * 命令行应用程序开发
   * [cement](http://builtoncement.com/)-适用于Python的CLI应用程序框架。
@@ -269,7 +269,7 @@
   * [tqdm](https://github.com/tqdm/tqdm)-用于循环和CLI的快速，可扩展的进度条。
 ## 命令行工具
 
-* 基于CLI的有用工具，可提高工作效率。* 
+* 基于CLI的有用工具，可提高工作效率。*
 
 * 生产力工具
   * [copier](https://github.com/pykong/copier)-用于渲染项目模板的库和命令行实用程序。
@@ -292,14 +292,14 @@
   * [saws](https://github.com/donnemartin/saws)-一个增压[aws-cli](https://github.com/aws/aws-cli)。
 ## 兼容性
 
-* 从Python 2迁移到3的库。* 
+* 从Python 2迁移到3的库。*
 
 * [python-future](http://python-future.org/index.html)-Python 2和Python 3之间缺少的兼容层。
 * [modernize](https://github.com/PyCQA/modernize)-为最终的Python 3迁移实现Python代码的现代化。
 * [six](https://pypi.org/project/six/)-Python 2和3兼容性实用程序。
 ## 计算机视觉
 
-* 计算机视觉库。* 
+* 计算机视觉库。*
 
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR)-准备使用的OCR支持40种语言。
 * [Face Recognition](https://github.com/ageitgey/face_recognition)-简单的面部识别库。
@@ -310,7 +310,7 @@
 * [tesserocr](https://github.com/sirfz/tesserocr)-另一个简单的，枕头友好，包装周围用于OCR的API。
 ## 并发性和并行性
 
-* 用于并发和并行执行的库。另请参见[awesome-asyncio](https://github.com/timofurrer/awesome-asyncio).* 
+* 用于并发和并行执行的库。另请参见[awesome-asyncio](https://github.com/timofurrer/awesome-asyncio).*
 
 * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)-(Python标准库) 用于异步执行可调用对象的高级接口。
 * [eventlet](http://eventlet.net/)-支持WSGI的异步框架。
@@ -320,7 +320,7 @@
 * [uvloop](https://github.com/MagicStack/uvloop)-超快速实施顶部的事件循环。
 ## 配置
 
-* 用于存储和解析配置选项的库。* 
+* 用于存储和解析配置选项的库。*
 
 * [configobj](https://github.com/DiffSK/configobj)-具有验证的ini文件解析器。
 * [configparser](https://docs.python.org/3/library/configparser.html)-(Python标准库) ini文件解析器。
@@ -335,7 +335,7 @@
 * [pynacl](https://github.com/pyca/pynacl)-Python绑定到网络和加密 (NaCl) 库。
 ## 数据分析
 
-* 用于数据分析的库。* 
+* 用于数据分析的库。*
 
 * [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)-AWS上的熊猫。
 * [Blaze](https://github.com/blaze/blaze)-NumPy和Pandas大数据接口。
@@ -345,7 +345,7 @@
 * [Pandas](http://pandas.pydata.org/)-提供高性能，易于使用的数据结构和数据分析工具的库。
 ## 数据验证
 
-* 用于验证数据的库。在许多情况下用于表单。* 
+* 用于验证数据的库。在许多情况下用于表单。*
 
 * [Cerberus](https://github.com/pyeve/cerberus)-一个轻量级和可扩展的数据验证库。
 * [colander](https://docs.pylonsproject.org/projects/colander/en/latest/)-验证和反序列化通过XML，JSON，HTML表单post获得的数据。
@@ -356,7 +356,7 @@
 * [voluptuous](https://github.com/alecthomas/voluptuous)-一个Python数据验证库。
 ## 数据可视化
 
-* 用于可视化数据的库。另请参见[awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization).* 
+* 用于可视化数据的库。另请参见[awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization).*
 
 * [Altair](https://github.com/altair-viz/altair)-用于Python的声明性统计可视化库。
 * [Bokeh](https://github.com/bokeh/bokeh)-Python的交互式Web绘图。
@@ -374,14 +374,14 @@
 * [VisPy](https://github.com/vispy/vispy)-基于OpenGL的高性能科学可视化。
 ## 数据库
 
-* 用Python实现的数据库。* 
+* 用Python实现的数据库。*
 
 * [pickleDB](https://github.com/patx/pickledb)-一个简单而轻量级的Python键值存储。
 * [tinydb](https://github.com/msiemens/tinydb)-一个小型的，面向文档的数据库。
 * [ZODB](https://github.com/zopefoundation/ZODB)-Python的本机对象数据库。键值和对象图数据库。
 ## 数据库驱动程序
 
-* 用于连接和操作数据库的库。* 
+* 用于连接和操作数据库的库。*
 
 * MySQL-[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
   * [mysqlclient](https://github.com/PyMySQL/mysqlclient-python)-支持Python 3的MySQL连接器 ([mysql-python](https://sourceforge.net/projects/mysql-python/)叉)。
@@ -406,7 +406,7 @@
   * [motor](https://github.com/mongodb/motor)-MongoDB的异步Python驱动程序。
 ## 日期和时间
 
-* 用于处理日期和时间的库。* 
+* 用于处理日期和时间的库。*
 
 * [Arrow](https://arrow.readthedocs.io/en/latest/)-一个Python库，提供了一个明智的和人性化的方法来创建，操作，格式化和转换日期，时间和时间戳。
 * [Chronyk](https://github.com/KoffeinFlummi/Chronyk)-一个Python 3库，用于解析人工编写的时间和日期。
@@ -420,7 +420,7 @@
 * [when.py](https://github.com/dirn/When.py)-提供用户友好的功能，以帮助执行常见的日期和时间操作。
 ## 调试工具
 
-* 用于调试代码的库。* 
+* 用于调试代码的库。*
 
 * 类似pdb的调试器
   * [ipdb](https://github.com/gotcha/ipdb)-启用IPython[pdb](https://docs.python.org/3/library/pdb.html)。
@@ -446,7 +446,7 @@
   * [pyelftools](https://github.com/eliben/pyelftools)-解析和分析ELF文件和矮人调试信息。
 ## 深度学习
 
-* 神经网络和深度学习的框架。另请参见[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).* 
+* 神经网络和深度学习的框架。另请参见[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
 
 * [caffe](https://github.com/BVLC/caffe)-一个快速开放的深度学习框架。
 * [keras](https://github.com/keras-team/keras)-一个高级神经网络库，能够在TensorFlow或Theano上运行。
@@ -458,7 +458,7 @@
 * [lightning](https://github.com/Lightning-AI/lightning)-深度学习框架，可快速训练、部署和运送AI产品。
 ## DevOps工具
 
-* DevOps的软件和库。* 
+* DevOps的软件和库。*
 
 * 配置管理
   * [ansible](https://github.com/ansible/ansible)-一个非常简单的IT自动化平台。
@@ -481,7 +481,7 @@
   * [docker-compose](https://docs.docker.com/compose/)-使用快速，隔离的开发环境[Docker](https://www.docker.com/)。
 ## 分布式计算
 
-* 用于分布式计算的框架和库。* 
+* 用于分布式计算的框架和库。*
 
 * 批处理
   * [dask](https://github.com/dask/dask)-用于分析计算的灵活并行计算库。
@@ -494,7 +494,7 @@
   * [streamparse](https://github.com/Parsely/streamparse)-通过实时数据流运行Python代码[Apache Storm](http://storm.apache.org/)。
 ## 分布
 
-* 库来创建打包的可执行文件以进行发布分发。* 
+* 库来创建打包的可执行文件以进行发布分发。*
 
 * [dh-virtualenv](https://github.com/spotify/dh-virtualenv)-构建并分发virtualenv作为Debian包。
 * [Nuitka](http://nuitka.net/)-将脚本，模块，包编译为可执行文件或扩展模块。
@@ -506,7 +506,7 @@
 * [shiv](https://github.com/linkedin/shiv)-用于构建完全自包含的zipapps (PEP 441) 的命令行实用程序，但包含所有依赖项。
 ## 文档
 
-* 用于生成项目文档的库。* 
+* 用于生成项目文档的库。*
 
 * [sphinx](https://github.com/sphinx-doc/sphinx/)-Python文档生成器。
   * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
@@ -514,7 +514,7 @@
 * [pycco](https://github.com/pycco-docs/pycco)-文学编程风格的文档生成器。
 ## 下载器
 
-* 用于下载的库。* 
+* 用于下载的库。*
 
 * [akshare](https://github.com/jindaxiang/akshare)-一个财务数据接口库，为人类打造!
 * [s3cmd](https://github.com/s3tools/s3cmd)-用于管理Amazon S3和CloudFront的命令行工具。
@@ -523,7 +523,7 @@
 * [youtube-dl](https://rg3.github.io/youtube-dl/)-一个小型命令行程序，用于从YouTube下载视频。
 ## 电子商务
 
-* 电子商务和支付的框架和库。* 
+* 电子商务和支付的框架和库。*
 
 * [alipay](https://github.com/lxneng/alipay)-Python的非官方支付宝API。
 * [Cartridge](https://github.com/stephenmcd/cartridge)-使用夹层构建的购物车应用程序。
@@ -555,7 +555,7 @@
   * [spyder](https://github.com/spyder-ide/spyder)-开源Python IDE。
 ## 电子邮件
 
-* 用于发送和解析电子邮件的库。* 
+* 用于发送和解析电子邮件的库。*
 
 * 邮件服务器
   * [modoboa](https://github.com/modoboa/modoboa)-包括现代Web UI的邮件托管和管理平台。
@@ -568,18 +568,18 @@
   * [mailer](https://github.com/marrow/mailer)-高性能可扩展邮件传递框架。
 ## 企业应用程序集成
 
-* 用于企业环境中系统集成的平台和工具* 
+* 用于企业环境中系统集成的平台和工具*
 
 * [Zato](https://zato.io)-Python中的ESB、SOA、REST、api和云集成。
 ## 环境管理
 
-* 用于Python版本和虚拟环境管理的库。* 
+* 用于Python版本和虚拟环境管理的库。*
 
 * [pyenv](https://github.com/pyenv/pyenv)-简单的Python版本管理。
 * [virtualenv](https://github.com/pypa/virtualenv)-用于创建隔离的Python环境的工具。
 ## 文件
 
-* 用于文件操作和MIME类型检测的库。* 
+* 用于文件操作和MIME类型检测的库。*
 
 * [mimetypes](https://docs.python.org/3/library/mimetypes.html)-(Python标准库) 将文件名映射到MIME类型。
 * [path.py](https://github.com/jaraco/path.py)-一个模块包装器[os.path](https://docs.python.org/3/library/os.path.html)。
@@ -590,7 +590,7 @@
 * [watchdog](https://github.com/gorakhargosh/watchdog)-用于监视文件系统事件的API和shell实用程序。
 ## 外来函数接口
 
-* 用于提供外部函数接口的库。* 
+* 用于提供外部函数接口的库。*
 
 * [cffi](https://pypi.org/project/cffi/)-用于Python调用C代码的外部函数接口。
 * [ctypes](https://docs.python.org/3/library/ctypes.html)-(Python标准库) 用于Python调用C代码的外部函数接口。
@@ -598,7 +598,7 @@
 * [SWIG](http://www.swig.org/Doc1.3/Python.html)-简化的包装器和界面生成器。
 ## 表格
 
-* 用于处理表单的库。* 
+* 用于处理表单的库。*
 
 * [Deform](https://github.com/Pylons/deform)·受formish表单生成库影响的Python HTML表单生成库
 * [django-bootstrap3](https://github.com/dyve/django-bootstrap3)-Bootstrap 3与Django的集成。
@@ -608,7 +608,7 @@
 * [WTForms](https://github.com/wtforms/wtforms)-一个灵活的表单验证和渲染库。
 ## 函数式编程
 
-* 用Python进行函数编程。* 
+* 用Python进行函数编程。*
 
 * [Coconut](https://github.com/evhub/coconut)-为简单，优雅，Python函数式编程而构建的Python变体。
 * [CyToolz](https://github.com/pytoolz/cytoolz/)-Cython实现: 高性能功能实用程序。
@@ -619,7 +619,7 @@
 * [Toolz](https://github.com/pytoolz/toolz)-用于迭代器、函数和字典的函数实用程序的集合。
 ## GUI开发
 
-* 用于处理图形用户界面应用程序的库。* 
+* 用于处理图形用户界面应用程序的库。*
 
 * [curses](https://docs.python.org/3/library/curses.html)-内置的包装器[ncurses](http://www.gnu.org/software/ncurses/)用于创建终端GUI应用程序。
 * [Eel](https://github.com/ChrisKnott/Eel)-用于制作简单的电子类离线HTML/JS GUI应用程序的库。
@@ -639,7 +639,7 @@
 * [DearPyGui](https://github.com/RaylockLLC/DearPyGui/)-一个简单的GPU加速的Python GUI框架
 ## GraphQL
 
-* 使用GraphQL的库。* 
+* 使用GraphQL的库。*
 
 * [graphene](https://github.com/graphql-python/graphene/)-Python的GraphQL框架。
 * [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/)-一个-基于Tartiflette的包装器，用于通过HTTP公开GraphQL api。
@@ -647,7 +647,7 @@
 * [tartiflette](https://tartiflette.io)-SDL-第一个用于Python 3.6和asyncio的GraphQL引擎实现。
 ## 游戏开发
 
-* Awesome 游戏开发库。* 
+* Awesome 游戏开发库。*
 
 * [Arcade](https://api.arcade.academy/en/latest/)-Arcade是一个现代的Python框架，用于制作具有引人注目的图形和声音的游戏。
 * [Cocos2d](http://cocos2d.org/)cocos2d是用于构建2D游戏，演示和其他图形/交互式应用程序的框架。
@@ -660,7 +660,7 @@
 * [RenPy](https://www.renpy.org/)-视觉小说引擎。
 ## 地理位置
 
-* 用于地理编码地址和处理纬度和经度的库。* 
+* 用于地理编码地址和处理纬度和经度的库。*
 
 * [django-countries](https://github.com/SmileyChris/django-countries)-一个Django应用程序，为模型和表单提供国家/地区字段。
 * [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/)-一个世界级的地理网络框架。
@@ -669,7 +669,7 @@
 * [geopy](https://github.com/geopy/geopy)-Python地理编码工具箱。
 ## HTML操作
 
-* 使用HTML和XML的库。* 
+* 使用HTML和XML的库。*
 
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)-提供Pythonic成语，用于迭代，搜索和修改HTML或XML。
 * [bleach](https://github.com/mozilla/bleach)-基于白名单的HTML清理和文本链接库。
@@ -684,7 +684,7 @@
 * [xmltodict](https://github.com/martinblech/xmltodict)-使用XML感觉就像你正在使用JSON。
 ## HTTP客户端
 
-* 使用HTTP的库。* 
+* 使用HTTP的库。*
 
 * [grequests](https://github.com/spyoungtech/grequests)-异步HTTP请求的请求gevent。
 * [httplib2](https://github.com/httplib2/httplib2)-全面的HTTP客户端库。
@@ -694,7 +694,7 @@
 * [urllib3](https://github.com/shazow/urllib3)-具有线程安全连接池，文件post支持，健全友好的HTTP库。
 ## 硬件
 
-* 用于硬件编程的库。* 
+* 用于硬件编程的库。*
 
 * [ino](http://inotool.org/)-用于使用的命令行工具包[Arduino](https://www.arduino.cc/)。
 * [keyboard](https://github.com/boppreh/keyboard)-在Windows和Linux上挂钩并模拟全局键盘事件。
@@ -704,7 +704,7 @@
 * [scapy](https://github.com/secdev/scapy)-一个辉煌的数据包操作库。
 ## 图像处理
 
-* 用于操作图像的库。* 
+* 用于操作图像的库。*
 
 * [hmap](https://github.com/rossgoodwin/hmap)-图像直方图重新映射。
 * [imgSeek](https://sourceforge.net/projects/imgseek/)-使用视觉相似性搜索图像集合的项目。
@@ -723,10 +723,10 @@
 * [wand](https://github.com/dahlia/wand)-用于的Python绑定[MagickWand](http://www.imagemagick.org/script/magick-wand.php),用于ImageMagick的C API。
 ## 实现
 
-* Python的实现。* 
+* Python的实现。*
 
 * [CLPython](https://github.com/metawilm/cl-python)-用Common Lisp编写的Python编程语言的实现。
-* [CPython](https://github.com/python/cpython)-** 默认情况下，最广泛使用的用C编写的Python编程语言实现。** 
+* [CPython](https://github.com/python/cpython)-** 默认情况下，最广泛使用的用C编写的Python编程语言实现。**
 * [Cython](http://cython.org/)-为Python优化静态编译器。
 * [Grumpy](https://github.com/google/grumpy)-更多的编译器比解释器更强大的CPython2.7替换 (alpha)。
 * [IronPython](https://github.com/IronLanguages/ironpython3)-C # 编写的Python编程语言的实现。
@@ -740,7 +740,7 @@
 * [Stackless Python](https://github.com/stackless-dev/stackless)-Python编程语言的增强版本。
 ## 交互式口译员
 
-* 交互式Python解释器 (REPL)。* 
+* 交互式Python解释器 (REPL)。*
 
 * [bpython](https://github.com/bpython/bpython)-Python解释器的花哨接口。
 * [Jupyter Notebook (IPython)](https://jupyter.org)-一个丰富的工具包，帮助您充分利用交互式使用Python。
@@ -748,13 +748,13 @@
 * [ptpython](https://github.com/jonathanslenders/ptpython)-高级Python REPL构建在[python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)。
 ## 国际化
 
-* 用于使用i18n的库。* 
+* 用于使用i18n的库。*
 
 * [Babel](http://babel.pocoo.org/en/latest/)-Python的国际化库。
 * [PyICU](https://github.com/ovalhub/pyicu)-Unicode C库的国际组件的包装 ([ICU](http://site.icu-project.org/))。
 ## 作业调度程序
 
-* 用于调度作业的库。* 
+* 用于调度作业的库。*
 
 * [Airflow](https://airflow.apache.org/)-Airflow是一个以编程方式创作，安排和监控工作流程的平台。
 * [APScheduler](http://apscheduler.readthedocs.io/en/latest/)-轻巧但功能强大的进程内任务计划程序，可让您安排功能。
@@ -769,7 +769,7 @@
 * [TaskFlow](https://docs.openstack.org/developer/taskflow/)-一个Python库，有助于使任务执行简单，一致和可靠。
 ## 日志记录
 
-* 用于生成和处理日志的库。* 
+* 用于生成和处理日志的库。*
 
 * [logbook](http://logbook.readthedocs.io/en/stable/)-Python的日志记录替换。
 * [logging](https://docs.python.org/3/library/logging.html)-(Python标准库) Python的日志记录工具。
@@ -778,7 +778,7 @@
 * [structlog](https://www.structlog.org/en/stable/)-结构化日志记录变得容易。
 ## 机器学习
 
-* 机器学习库。另请参见[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python).* 
+* 机器学习库。另请参见[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python).*
 
 * [gym](https://github.com/openai/gym)-用于开发和比较强化学习算法的工具包。
 * [H2O](https://github.com/h2oai/h2o-3)-开源快速可扩展的机器学习平台。
@@ -791,7 +791,7 @@
 * [MindsDB](https://github.com/mindsdb/mindsdb)-MindsDB是现有数据库的开源AI层，使您可以使用标准查询轻松开发，训练和部署最先进的机器学习模型。
 ## Microsoft Windows
 
-* Microsoft Windows上的Python编程。* 
+* Microsoft Windows上的Python编程。*
 
 * [Python(x,y)](http://python-xy.github.io/)-基于Qt和Spyder的面向科学应用的Python发行版。
 * [pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs/)-用于Python扩展包的非官方Windows二进制文件。
@@ -800,7 +800,7 @@
 * [WinPython](https://winpython.github.io/)-适用于Windows 7/8的便携式开发环境。
 ## 杂项
 
-* 不适合上述类别的有用库或工具。* 
+* 不适合上述类别的有用库或工具。*
 
 * [blinker](https://github.com/jek/blinker)-一个快速的Python进程内信号/事件调度系统。
 * [boltons](https://github.com/mahmoud/boltons)-一组纯Python实用程序。
@@ -810,7 +810,7 @@
 * [tryton](http://www.tryton.org/)-通用业务框架。
 ## 自然语言处理
 
-* 用于处理人类语言的库。* 
+* 用于处理人类语言的库。*
 
 - 概述
   * [gensim](https://github.com/RaRe-Technologies/gensim)-人类的主题建模。
@@ -829,20 +829,20 @@
   * [snownlp](https://github.com/isnowfy/snownlp)-用于处理中文文本的库。
 ## 网络虚拟化
 
-* 用于虚拟网络和SDN (软件定义网络) 的工具和库。* 
+* 用于虚拟网络和SDN (软件定义网络) 的工具和库。*
 
 * [mininet](https://github.com/mininet/mininet)-一个流行的网络模拟器和用Python编写的API。
 * [napalm](https://github.com/napalm-automation/napalm)-跨供应商API来操纵网络设备。
 * [pox](https://github.com/noxrepo/pox)一种基于Python的SDN控制应用，如OpenFlow SDN控制器。
 ## 新闻提要
 
-* 用于构建用户活动的库。* 
+* 用于构建用户活动的库。*
 
 * [django-activity-stream](https://github.com/justquick/django-activity-stream)-从网站上的操作生成通用活动流。
 * [Stream Framework](https://github.com/tschellenbach/Stream-Framework)-使用Cassandra和Redis构建新闻源和通知系统。
 ## ORM
 
-* 实现对象关系映射或数据映射技术的库。* 
+* 实现对象关系映射或数据映射技术的库。*
 
 * 关系数据库
   * [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/)-The Django ORM.
@@ -861,7 +861,7 @@
   * [redisco](https://github.com/kiddouk/redisco)-一个Python库，用于保存在Redis中的简单模型和容器。
 ## 包管理
 
-* 用于包和依赖项管理的库。* 
+* 用于包和依赖项管理的库。*
 
 * [pip](https://pip.pypa.io/en/stable/)-Python的软件包安装程序。
   * [pip-tools](https://github.com/jazzband/pip-tools)-一组工具，以保持你的固定的Python依赖新鲜。
@@ -870,7 +870,7 @@
 * [poetry](https://github.com/sdispater/poetry)-Python依赖管理和打包变得容易。
 ## 包存储库
 
-* 本地PyPI存储库服务器和代理。* 
+* 本地PyPI存储库服务器和代理。*
 
 * [bandersnatch](https://github.com/pypa/bandersnatch/)-Python打包机构 (PyPA) 提供的PyPI镜像工具。
 * [devpi](https://github.com/devpi/devpi)-PyPI服务器和包装/测试/发布工具。
@@ -878,27 +878,27 @@
 * [warehouse](https://github.com/pypa/warehouse)-下一代Python包存储库 (PyPI)。
 ## 渗透测试
 
-* 渗透测试的框架和工具。* 
+* 渗透测试的框架和工具。*
 
 * [fsociety](https://github.com/Manisso/fsociety)-一个渗透测试框架。
 * [setoolkit](https://github.com/trustedsec/social-engineer-toolkit)-社会工程工具包。
 * [sqlmap](https://github.com/sqlmapproject/sqlmap)-自动SQL注入和数据库接管工具。
 ## 权限
 
-* 允许或拒绝用户访问数据或功能的库。* 
+* 允许或拒绝用户访问数据或功能的库。*
 
 * [django-guardian](https://github.com/django-guardian/django-guardian)-Django 1.2的每个对象权限的实现
 * [django-rules](https://github.com/dfunckt/django-rules)-一个微小但功能强大的应用程序，为Django提供对象级权限，而不需要数据库。
 ## 流程
 
-* 用于启动OS进程并与之通信的库。* 
+* 用于启动OS进程并与之通信的库。*
 
 * [delegator.py](https://github.com/amitt001/delegator.py)-[Subprocesses](https://docs.python.org/3/library/subprocess.html)对于人类2.0。
 * [sarge](https://sarge.readthedocs.io/en/latest/)-子进程的另一个包装器。
 * [sh](https://github.com/amoffat/sh)-一个完整的Python子进程替代品。
 ## 推荐系统
 
-* 用于构建推荐系统的库。* 
+* 用于构建推荐系统的库。*
 
 * [annoy](https://github.com/spotify/annoy)-近似最近的邻居在C /Python内存使用优化。
 * [fastFM](https://github.com/ibayer/fastFM)-用于因式分解机器的库。
@@ -910,14 +910,14 @@
 * [tensorrec](https://github.com/jfkirk/tensorrec)-TensorFlow中的推荐引擎框架。
 ## 重构
 
-* Python的重构工具和库* 
+* Python的重构工具和库*
 
 * [Bicycle Repair Man](http://bicyclerepair.sourceforge.net/)-自行车修理工，Python的重构工具。
 * [Bowler](https://pybowler.io/)-现代Python的安全代码重构。
 * [Rope](https://github.com/python-rope/rope)-Rope是一个python重构库。
 ## RESTful API
 
-* 用于构建RESTful api的库。* 
+* 用于构建RESTful api的库。*
 
 * Django
   * [django-rest-framework](http://www.django-rest-framework.org/)-一个强大而灵活的工具包来构建web api。
@@ -938,19 +938,19 @@
   * [vibora](https://vibora.io/)-受Flask启发的快速，高效和异步的Web框架。
 ## 机器人技术
 
-* 机器人库。* 
+* 机器人库。*
 
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)-这是带有可视化的各种机器人算法的汇编。
 * [rospy](http://wiki.ros.org/rospy)-这是一个用于ROS (机器人操作系统) 的库。
 ## RPC服务器
 
-* 兼容RPC的服务器。* 
+* 兼容RPC的服务器。*
 
 * [RPyC](https://github.com/tomerfiliba/rpyc)(远程Python调用)-用于Python的透明且对称的RPC库
 * [zeroRPC](https://github.com/0rpc/zerorpc-python)-zerorpc是一个灵活的RPC实现基于[ZeroMQ](http://zeromq.org/)和[MessagePack](http://msgpack.org/)。
 ## 科学
 
-* 科学计算库。另请参见[Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists).* 
+* 科学计算库。另请参见[Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists).*
 
 * [astropy](http://www.astropy.org/)-一个用于天文学的社区Python库。
 * [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)-为全自动高通量测序分析提供最佳实践管道。
@@ -975,7 +975,7 @@
 * [Zipline](https://github.com/quantopian/zipline)-一个Pythonic算法交易库。
 ## 搜索
 
-* 用于对数据进行索引和执行搜索查询的库和软件。* 
+* 用于对数据进行索引和执行搜索查询的库和软件。*
 
 * [django-haystack](https://github.com/django-haystack/django-haystack)-Django的模块化搜索。
 * [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py)-用于Elasticsearch的官方高级Python客户端。
@@ -984,7 +984,7 @@
 * [whoosh](http://whoosh.readthedocs.io/en/latest/)-一个快速，纯Python搜索引擎库。
 ## 序列化
 
-* 用于序列化复杂数据类型的库* 
+* 用于序列化复杂数据类型的库*
 
 * [marshmallow](https://github.com/marshmallow-code/marshmallow)-用于将复杂对象与简单Python数据类型相互转换的轻量级库。
 * [pysimdjson](https://github.com/TkTech/pysimdjson)-一个Python绑定[simdjson](https://github.com/lemire/simdjson)。
@@ -992,18 +992,18 @@
 * [ultrajson](https://github.com/esnme/ultrajson)-使用Python绑定用C编写的快速JSON解码器和编码器。
 ## 无服务器框架
 
-* 开发无服务器Python代码的框架。* 
+* 开发无服务器Python代码的框架。*
 
 * [python-lambda](https://github.com/nficano/python-lambda)-用于在AWS Lambda中开发和部署Python代码的工具包。
 * [Zappa](https://github.com/zappa/Zappa)-用于在AWS Lambda和API Gateway上部署WSGI应用程序的工具。
 ## 壳牌
 
-* 基于Python的shell。* 
+* 基于Python的shell。*
 
 * [xonsh](https://github.com/xonsh/xonsh/)-Python驱动，跨平台，Unix凝视shell语言和命令提示符。
 ## 特定格式处理
 
-* 用于解析和操作特定文本格式的库。* 
+* 用于解析和操作特定文本格式的库。*
 
 * 概述
   * [tablib](https://github.com/jazzband/tablib)-用于XLS，CSV，JSON，YAML中的表格数据集的模块。
@@ -1032,7 +1032,7 @@
   * [unp](https://github.com/mitsuhiko/unp)-一个命令行工具，可以轻松解压缩档案。
 ## 静态站点生成器
 
-* 静态站点生成器是一种软件，它将一些文本模板作为输入，并在输出上生成HTML文件。* 
+* 静态站点生成器是一种软件，它将一些文本模板作为输入，并在输出上生成HTML文件。*
 
 * [lektor](https://github.com/lektor/lektor)-一个易于使用的静态CMS和博客引擎。
 * [mkdocs](https://github.com/mkdocs/mkdocs/)-Markdown友好的文档生成器。
@@ -1041,12 +1041,12 @@
 * [pelican](https://github.com/getpelican/pelican)-支持Markdown和reST语法的静态站点生成器。
 ## 标记
 
-* 用于标记项目的库。* 
+* 用于标记项目的库。*
 
 * [django-taggit](https://github.com/jazzband/django-taggit)-Django的简单标记。
 ## 任务队列
 
-* 用于处理任务队列的库。* 
+* 用于处理任务队列的库。*
 
 * [celery](https://docs.celeryproject.org/en/stable/)-基于分布式消息传递的异步任务队列/作业队列。
 * [dramatiq](https://github.com/Bogdanp/dramatiq)-适用于Python 3的快速可靠的后台任务处理库。
@@ -1055,14 +1055,14 @@
 * [rq](https://github.com/rq/rq)-Python的简单作业队列。
 ## 模板引擎
 
-* 用于模板和词法的库和工具。* 
+* 用于模板和词法的库和工具。*
 
 * [Genshi](https://genshi.edgewall.org/)-用于生成web感知输出的Python模板工具包。
 * [Jinja2](https://github.com/pallets/jinja)-现代和设计师友好的模板语言。
 * [Mako](http://www.makotemplates.org/)-用于Python平台的超快和轻量级模板。
 ## 测试
 
-* 用于测试代码库和生成测试数据的库。* 
+* 用于测试代码库和生成测试数据的库。*
 
 * 测试框架
   * [hypothesis](https://github.com/HypothesisWorks/hypothesis)-假设是一个基于属性的高级Quickcheck风格的测试库。
@@ -1103,7 +1103,7 @@
   * [radar](https://pypi.org/project/radar/)-生成随机日期时间/时间。
 ## 文本处理
 
-* 用于解析和操作纯文本的库。* 
+* 用于解析和操作纯文本的库。*
 
 * 概述
   * [chardet](https://github.com/chardet/chardet)Python 2/3兼容字符编码检测器。
@@ -1133,7 +1133,7 @@
   * [sqlparse](https://github.com/andialbrecht/sqlparse)-非验证SQL解析器。
 ## 第三方api
 
-* 用于访问第三方服务api的库。另见[List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).* 
+* 用于访问第三方服务api的库。另见[List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).*
 
 * [apache-libcloud](https://libcloud.apache.org/)-一个用于所有云的Python库。
 * [boto3](https://github.com/boto/boto3)-Amazon Web Services的Python接口。
@@ -1144,7 +1144,7 @@
 * [twython](https://github.com/ryanmcgrath/twython)-Twitter API的Python包装器。
 ## URL操作
 
-* 用于解析url的库。* 
+* 用于解析url的库。*
 
 * [furl](https://github.com/gruns/furl)-一个小型Python库，使解析和操作url变得容易。
 * [purl](https://github.com/codeinthehole/purl)-一个简单，不可变的URL类，具有用于询问和操作的干净API。
@@ -1152,14 +1152,14 @@
 * [webargs](https://github.com/marshmallow-code/webargs)-一个友好的库，用于解析HTTP请求参数，内置支持流行的web框架。
 ## 视频
 
-* 用于操作视频和gif的库。* 
+* 用于操作视频和gif的库。*
 
 * [moviepy](https://zulko.github.io/moviepy/)-用于基于脚本的电影编辑的模块，具有多种格式，包括动画gif。
 * [scikit-video](https://github.com/aizvorski/scikit-video)SciPy的视频处理例程。
 * [vidgear](https://github.com/abhiTronix/vidgear)-最强大的多线程视频处理框架。
 ## Web资产管理
 
-* 用于管理，压缩和缩小网站资产的工具。* 
+* 用于管理，压缩和缩小网站资产的工具。*
 
 * [django-compressor](https://github.com/django-compressor/django-compressor)-将链接和内联JavaScript或CSS压缩到单个缓存文件中。
 * [django-pipeline](https://github.com/jazzband/django-pipeline)-Django的资产打包库。
@@ -1170,7 +1170,7 @@
 * [webassets](https://github.com/miracle2k/webassets)-捆绑，优化和管理静态资源的唯一缓存破坏url。
 ## Web内容提取
 
-* 用于提取web内容的库。* 
+* 用于提取web内容的库。*
 
 * [html2text](https://github.com/Alir3z4/html2text)-将HTML转换为Markdown格式的文本。
 * [lassie](https://github.com/michaelhelmick/lassie)-用于人类的Web内容检索。
@@ -1183,7 +1183,7 @@
 * [toapi](https://github.com/gaojiuli/toapi)每个网站都提供api。
 ## Web爬行
 
-* 自动进行web抓取的库。* 
+* 自动进行web抓取的库。*
 
 * [cola](https://github.com/chineking/cola)-分布式爬网框架。
 * [feedparser](https://pythonhosted.org/feedparser/)-通用提要解析器。
@@ -1195,7 +1195,7 @@
 * [scrapy](https://scrapy.org/)-一个快速的高级屏幕抓取和web爬行框架。
 ## Web框架
 
-* 传统的全栈web框架。另请参见[RESTful API](https://github.com/vinta/awesome-python#restful-api).* 
+* 传统的全栈web框架。另请参见[RESTful API](https://github.com/vinta/awesome-python#restful-api).*
 
 * 同步
   * [Django](https://www.djangoproject.com/)-Python中最受欢迎的web框架。
@@ -1210,14 +1210,14 @@
   * [Tornado](http://www.tornadoweb.org/en/latest/)-一个web框架和异步网络库。
 ## WebSocket
 
-* 用于使用WebSocket的库。* 
+* 用于使用WebSocket的库。*
 
 * [autobahn-python](https://github.com/crossbario/autobahn-python)-WebSocket和WAMP的Python上的扭曲和[asyncio](https://docs.python.org/3/library/asyncio.html)。
 * [channels](https://github.com/django/channels)-开发人员友好的Django异步。
 * [websockets](https://github.com/aaugustin/websockets)-一个用于构建WebSocket服务器和客户端的库，重点是正确性和简单性。
 ## WSGI服务器
 
-* 兼容WSGI的web服务器。* 
+* 兼容WSGI的web服务器。*
 
 * [bjoern](https://github.com/jonashaag/bjoern)-异步，非常快，用C编写。
 * [gunicorn](https://github.com/benoitc/gunicorn)-预分叉，从Ruby的独角兽项目移植。
