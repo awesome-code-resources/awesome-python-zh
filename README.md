@@ -106,8 +106,8 @@
 
 * 用于管理接口的库。* 
 
-* [ajenti](https://github.com/ajenti/ajenti)-您的服务器应得的管理面板。
-* [django-grappelli](https://grappelliproject.com/)-Django管理界面的爵士皮肤。
+* [ajenti](https://github.com/ajenti/ajenti) - 您的服务器应得的管理面板。
+* [django-grappelli](https://grappelliproject.com/) - Django管理界面的爵士皮肤。
 * [django-jet](https://github.com/geex-arts/django-jet)-具有改进功能的Django管理界面的现代响应模板。
 * [django-suit](https://djangosuit.com/)-替代Django管理界面 (仅免费用于非商业用途)。
 * [django-xadmin](https://github.com/sshwsfc/xadmin)-Django admin的替换带有很多好处。
