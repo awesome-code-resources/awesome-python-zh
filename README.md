@@ -66,7 +66,7 @@
   - [新闻提要](#新闻提要)
   - [ORM](#ORM)
   - [包管理](#包管理)
-  - [软件包存储库](#软件包存储库)
+  - [包存储库](#包存储库)
   - [渗透测试](#渗透测试)
   - [权限](#权限)
   - [流程](#流程)
@@ -114,7 +114,7 @@
 * [flask-admin](https://github.com/flask-admin/flask-admin)-Flask的简单和可扩展的管理接口框架。
 * [flower](https://github.com/mher/flower)-芹菜的实时监控和网络管理。
 * [jet-bridge](https://github.com/jet-admin/jet-bridge)-管理面板框架与漂亮的UI (ex Jet Django) 的任何应用程序。
-* [wooey](https://github.com/wooey/wooey)-一个Django应用程序，它为Python脚本创建自动web ui。
+* [wooey](https://github.com/wooey/wooey)-一个Django应用程序，它为Python脚本创建自动web UIs。
 ## 算法和设计模式
 
 * 数据结构、算法和设计模式的Python实现。另请参见[awesome-algorithms](https://github.com/tayllan/awesome-algorithms).* 
@@ -126,7 +126,7 @@
   * [TheAlgorithms](https://github.com/TheAlgorithms/Python)-在Python中实现的所有算法。
 * 设计模式
   * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn)-一个简单而有效的库，用于实现常见的设计模式。
-  * [python-patterns](https://github.com/faif/python-patterns)-Python中的设计模式集合
+  * [python-patterns](https://github.com/faif/python-patterns)-Python中的设计模式集合。
   * [transitions](https://github.com/pytransitions/transitions)-一个轻量级的、面向对象的有限状态机实现。
 ## ASGI服务器
 
@@ -154,7 +154,7 @@
   * [matchering](https://github.com/sergree/matchering)-用于自动参考音频母盘制作的库。
   * [mingus](http://bspaans.github.io/python-mingus/)-具有MIDI文件和播放支持的高级音乐理论和符号包。
   * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)-音频特征提取，分类，分割和应用。
-  * [pydub](https://github.com/jiaaro/pydub)-操作音频与一个简单和容易的高级接口。
+  * [pydub](https://github.com/jiaaro/pydub)-使用简单易用的高级界面操纵音频。
   * [TimeSide](https://github.com/Parisson/TimeSide)-打开web音频处理框架。
 * 元数据
   * [beets](https://github.com/beetbox/beets)-音乐库经理和[MusicBrainz](https://musicbrainz.org/)tagger.
@@ -168,7 +168,7 @@
 * OAuth
   * [authlib](https://github.com/lepture/authlib)-JavaScript对象签名和加密草案实现。
   * [django-allauth](https://github.com/pennersr/django-allauth)-Django的身份验证应用程序 “只是工作”。
-  * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit)-Django的OAuth 2好东西。
+  * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit)-OAuth 2 Django的好东西。
   * [oauthlib](https://github.com/idan/oauthlib)-OAuth请求签名逻辑的通用和彻底的实现。
   * [python-oauth2](https://github.com/joestump/python-oauth2)-一个经过全面测试的抽象接口，用于创建OAuth客户端和服务器。
   * [python-social-auth](https://github.com/omab/python-social-auth)-易于设置的社交身份验证机制。
@@ -199,7 +199,7 @@
 * 内容管理系统。* 
 
 * [django-cms](https://www.django-cms.org/en/)-基于Django的开源企业CMS。
-* [feincms](https://github.com/feincms/feincms)-基于Django构建的最先进的内容管理系统之一。
+* [feincms](https://github.com/feincms/feincms)-基于Django的最先进的内容管理系统之一。
 * [indico](https://github.com/indico/indico)-一个功能丰富的事件管理系统，由 @[CERN](https://en.wikipedia.org/wiki/CERN)。
 * [Kotti](https://github.com/Kotti/Kotti)-一个基于python的高级web应用程序框架。
 * [mezzanine](https://github.com/stephenmcd/mezzanine)-功能强大、一致且灵活的内容管理平台。
@@ -213,7 +213,7 @@
 * [beaker](https://github.com/bbangert/beaker)-用于会话和缓存的WSGI中间件。
 * [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine)-Django模型的自动缓存和失效。
 * [django-cacheops](https://github.com/Suor/django-cacheops)-一个光滑的ORM缓存，具有自动粒度事件驱动的失效。
-* [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/)-dogpile.ca che是同一作者制作的烧杯的下一代替代品。
+* [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/)-dogpile.ca che是由同一作者制作的烧杯的下一代替代品。
 * [HermesCache](https://pypi.org/project/HermesCache/)-Python缓存库，具有基于标签的失效和防dogpile效果。
 * [pylibmc](https://github.com/lericson/pylibmc)-围绕[libmemcached](https://libmemcached.org/libMemcached.html)接口。
 * [python-diskcache](http://www.grantjenks.com/docs/diskcache/)-SQLite和文件支持的缓存后端，具有比memcached和redis更快的查找速度。
@@ -230,14 +230,14 @@
   * [coala](https://github.com/coala/coala/)-语言独立和易于扩展的代码分析应用程序。
   * [code2flow](https://github.com/scottrogowski/code2flow)-将您的Python和JavaScript代码转换为点流程图。
   * [prospector](https://github.com/PyCQA/prospector)-分析Python代码的工具。
-  * [pycallgraph](https://github.com/gak/pycallgraph)-可视化您的Python应用程序的流 (调用图) 的库。
+  * [pycallgraph](https://github.com/gak/pycallgraph)-一个可视化Python应用程序流 (调用图) 的库。
   * [vulture](https://github.com/jendrikseipp/vulture)-用于查找和分析死Python代码的工具。
 * 代码短绒
   * [flake8](https://pypi.org/project/flake8/)-周围的包装,还有McCabe.
   * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
   * [pylama](https://github.com/klen/pylama)-用于Python和JavaScript的代码审核工具。
   * [pylint](https://www.pylint.org/)-一个完全可定制的源代码分析器。
-  * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)-有史以来最严格、最固执己见的蟒蛇棉绒。
+  * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)-有史以来最严格，最固执己见的python棉绒。
 * 代码格式化程序
   * [black](https://github.com/python/black)-不妥协的Python代码格式化程序。
   * [isort](https://github.com/timothycrosley/isort)-用于对导入进行排序的Python实用程序/库。
@@ -310,7 +310,7 @@
 * [tesserocr](https://github.com/sirfz/tesserocr)-另一个简单的，枕头友好，包装周围用于OCR的API。
 ## 并发性和并行性
 
-* 用于并发和并行执行的库。另见[awesome-asyncio](https://github.com/timofurrer/awesome-asyncio).* 
+* 用于并发和并行执行的库。另请参见[awesome-asyncio](https://github.com/timofurrer/awesome-asyncio).* 
 
 * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)-(Python标准库) 用于异步执行可调用对象的高级接口。
 * [eventlet](http://eventlet.net/)-支持WSGI的异步框架。
@@ -362,7 +362,7 @@
 * [Bokeh](https://github.com/bokeh/bokeh)-Python的交互式Web绘图。
 * [bqplot](https://github.com/bloomberg/bqplot)-Jupyter笔记本的交互式绘图库。
 * [Cartopy](https://github.com/SciTools/cartopy)-一个支持matplotlib的制图python库。
-* [Dash](https://plot.ly/products/dash/)-建立在Flask之上，React和Plotly旨在分析web应用程序。
+* [Dash](https://plot.ly/products/dash/)-建立在烧瓶的顶部，反应和情节针对分析web应用程序。
   * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 * [diagrams](https://github.com/mingrammer/diagrams)-作为代码的图表。
 * [Matplotlib](http://matplotlib.org/)-一个Python 2D绘图库。
@@ -424,7 +424,7 @@
 
 * 类似pdb的调试器
   * [ipdb](https://github.com/gotcha/ipdb)-启用IPython[pdb](https://docs.python.org/3/library/pdb.html)。
-  * [pdb++](https://github.com/antocuni/pdb)-另一个替换pdb的替代品。
+  * [pdb++](https://github.com/antocuni/pdb)-pdb的另一个替换品。
   * [pudb](https://github.com/inducer/pudb)-基于控制台的全屏Python调试器。
   * [wdb](https://github.com/Kozea/wdb)-通过WebSockets不可能的web调试器。
 * 追踪
@@ -446,7 +446,7 @@
   * [pyelftools](https://github.com/eliben/pyelftools)-解析和分析ELF文件和矮人调试信息。
 ## 深度学习
 
-* 神经网络和深度学习的框架。另见[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).* 
+* 神经网络和深度学习的框架。另请参见[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).* 
 
 * [caffe](https://github.com/BVLC/caffe)-一个快速开放的深度学习框架。
 * [keras](https://github.com/keras-team/keras)-一个高级神经网络库，能够在TensorFlow或Theano上运行。
@@ -464,12 +464,12 @@
   * [ansible](https://github.com/ansible/ansible)-一个非常简单的IT自动化平台。
   * [cloudinit](https://cloudinit.readthedocs.io/en/latest/)-一个多分发包，用于处理云实例的早期初始化。
   * [OpenStack](https://www.openstack.org/)-用于构建私有云和公共云的开源软件。
-  * [pyinfra](https://github.com/Fizzadar/pyinfra)-一个多功能的CLI工具和python库，用于自动化基础架构。
+  * [pyinfra](https://github.com/Fizzadar/pyinfra)-通用的CLI工具和python库，用于自动化基础架构。
   * [saltstack](https://github.com/saltstack/salt)-基础设施自动化和管理系统。
 * SSH风格部署
   * [cuisine](https://github.com/sebastien/cuisine)-厨师般的面料功能。
   * [fabric](https://github.com/fabric/fabric)-一个简单的Pythonic工具，用于远程执行和部署。
-  * [fabtools](https://github.com/fabtools/fabtools)-用于编写Awesome 织物文件的工具。
+  * [fabtools](https://github.com/fabtools/fabtools)-编写Awesome 织物文件的工具。
 * 流程管理
   * [honcho](https://github.com/nickstenning/honcho)-一个Python克隆的[Foreman](https://github.com/ddollar/foreman),用于管理基于Procfile的应用程序。
   * [supervisor](https://github.com/Supervisor/supervisor)-主管过程控制系统的UNIX。
@@ -485,7 +485,7 @@
 
 * 批处理
   * [dask](https://github.com/dask/dask)-用于分析计算的灵活并行计算库。
-  * [luigi](https://github.com/spotify/luigi)-一个模块，可帮助您构建批处理作业的复杂管道。
+  * [luigi](https://github.com/spotify/luigi)-帮助您构建批处理作业的复杂管道的模块。
   * [mrjob](https://github.com/Yelp/mrjob)-在Hadoop或Amazon Web Services上运行MapReduce作业。
   * [PySpark](https://pypi.org/project/pyspark/)-[Apache Spark](https://spark.apache.org/)Python API。
   * [Ray](https://github.com/ray-project/ray/)-一个用于并行和分布式Python的系统，统一了机器学习生态系统。
@@ -519,7 +519,7 @@
 * [akshare](https://github.com/jindaxiang/akshare)-一个财务数据接口库，为人类打造!
 * [s3cmd](https://github.com/s3tools/s3cmd)-用于管理Amazon S3和CloudFront的命令行工具。
 * [s4cmd](https://github.com/bloomreach/s4cmd)-超级S3命令行工具，有利于更高的性能。
-* [you-get](https://you-get.org/)-用Python 3编写的YouTube/优酷/Niconico视频下载器。
+* [you-get](https://you-get.org/)-用Python 3编写的YouTube/Youku/Niconico视频下载器。
 * [youtube-dl](https://rg3.github.io/youtube-dl/)-一个小型命令行程序，用于从YouTube下载视频。
 ## 电子商务
 
@@ -585,8 +585,8 @@
 * [path.py](https://github.com/jaraco/path.py)-一个模块包装器[os.path](https://docs.python.org/3/library/os.path.html)。
 * [pathlib](https://docs.python.org/3/library/pathlib.html)-(Python标准库) 一个跨平台、面向对象的路径库。
 * [PyFilesystem2](https://github.com/pyfilesystem/pyfilesystem2)-Python的文件系统抽象层。
-* [python-magic](https://github.com/ahupp/python-magic)-一个到libmagic文件类型标识库的Python接口。
-* [Unipath](https://github.com/mikeorr/Unipath)-一种面向对象的文件/目录操作方法。
+* [python-magic](https://github.com/ahupp/python-magic)-libmagic文件类型识别库的Python接口。
+* [Unipath](https://github.com/mikeorr/Unipath)·文件/目录操作的面向对象方法
 * [watchdog](https://github.com/gorakhargosh/watchdog)-用于监视文件系统事件的API和shell实用程序。
 ## 外来函数接口
 
@@ -600,7 +600,7 @@
 
 * 用于处理表单的库。* 
 
-* [Deform](https://github.com/Pylons/deform)Python HTML表单生成库受formish表单生成库的影响。
+* [Deform](https://github.com/Pylons/deform)·受formish表单生成库影响的Python HTML表单生成库
 * [django-bootstrap3](https://github.com/dyve/django-bootstrap3)-Bootstrap 3与Django的集成。
 * [django-bootstrap4](https://github.com/zostera/django-bootstrap4)-Bootstrap 4与Django的集成。
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms)-一个Django应用程序，它可以让你在一个非常优雅和干燥的方式创建美丽的形式。
@@ -610,7 +610,7 @@
 
 * 用Python进行函数编程。* 
 
-* [Coconut](https://github.com/evhub/coconut)-为简单，优雅，Pythonic函数编程而构建的Python变体。
+* [Coconut](https://github.com/evhub/coconut)-为简单，优雅，Python函数式编程而构建的Python变体。
 * [CyToolz](https://github.com/pytoolz/cytoolz/)-Cython实现: 高性能功能实用程序。
 * [fn.py](https://github.com/kachayev/fn.py)-Python中的函数式编程: 实现缺少的功能以享受FP。
 * [funcy](https://github.com/Suor/funcy)-一个花哨而实用的功能工具。
@@ -630,7 +630,7 @@
 * [pyglet](https://github.com/pyglet/pyglet)-用于Python的跨平台窗口和多媒体库。
 * [PyGObject](https://wiki.gnome.org/Projects/PyGObject)-用于GLib/GObject/GIO/GTK (GTK 3) 的Python绑定。
 * [PyQt](https://doc.qt.io/qtforpython/)-Python绑定的[Qt](https://www.qt.io/)跨平台应用程序和UI框架。
-* [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)-tkinter，Qt，WxPython和Remi的包装器。
+* [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)-tkinter、Qt、WxPython和Remi的包装器。
 * [pywebview](https://github.com/r0x0r/pywebview/)-围绕webview组件的轻量级跨平台本机包装。
 * [Tkinter](https://wiki.python.org/moin/TkInter)Tkinter是Python的事实上的标准GUI包。
 * [Toga](https://github.com/pybee/toga)-Python原生，操作系统原生GUI工具包。
@@ -652,7 +652,7 @@
 * [Arcade](https://api.arcade.academy/en/latest/)-Arcade是一个现代的Python框架，用于制作具有引人注目的图形和声音的游戏。
 * [Cocos2d](http://cocos2d.org/)cocos2d是用于构建2D游戏，演示和其他图形/交互式应用程序的框架。
 * [Harfang3D](http://www.harfang3d.com)-用于3D，VR和游戏开发的Python框架。
-* [Panda3D](https://www.panda3d.org/)-由迪士尼开发的3D游戏引擎。
+* [Panda3D](https://www.panda3d.org/)-迪士尼开发的3D游戏引擎。
 * [Pygame](http://www.pygame.org/news.html)Pygame是一组为编写游戏而设计的Python模块。
 * [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre)-用于Ogre 3D渲染引擎的Python绑定，可用于游戏，模拟，任何3D。
 * [PyOpenGL](http://pyopengl.sourceforge.net/)-用于OpenGL及其相关api的Python ctypes绑定。
@@ -672,12 +672,12 @@
 * 使用HTML和XML的库。* 
 
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)-提供Pythonic成语，用于迭代，搜索和修改HTML或XML。
-* [bleach](https://github.com/mozilla/bleach)-基于白名单的HTML清理和文本链接库
+* [bleach](https://github.com/mozilla/bleach)-基于白名单的HTML清理和文本链接库。
 * [cssutils](https://pypi.org/project/cssutils/)-Python的CSS库。
-* [html5lib](https://github.com/html5lib/html5lib-python)-符合标准的库，用于解析和序列化HTML文档和片段。
+* [html5lib](https://github.com/html5lib/html5lib-python)-一个符合标准的库，用于解析和序列化HTML文档和片段。
 * [lxml](http://lxml.de/)-一个非常快速，易于使用和多功能的库，用于处理HTML和XML。
 * [MarkupSafe](https://github.com/pallets/markupsafe)-为Python实现XML/HTML/XHTML标记安全字符串。
-* [pyquery](https://github.com/gawel/pyquery)-一个类似jQuery的库，用于解析HTML。
+* [pyquery](https://github.com/gawel/pyquery)-一个类似于jQuery的库，用于解析HTML。
 * [untangle](https://github.com/stchris/untangle)-将XML文档转换为Python对象，以便于访问。
 * [WeasyPrint](http://weasyprint.org)-用于HTML和CSS的可视化渲染引擎，可以导出为PDF。
 * [xmldataset](https://xmldataset.readthedocs.io/en/latest/)-简单的XML解析。
@@ -727,7 +727,7 @@
 
 * [CLPython](https://github.com/metawilm/cl-python)-用Common Lisp编写的Python编程语言的实现。
 * [CPython](https://github.com/python/cpython)-** 默认情况下，最广泛使用的用C编写的Python编程语言实现。** 
-* [Cython](http://cython.org/)-优化Python的静态编译器。
+* [Cython](http://cython.org/)-为Python优化静态编译器。
 * [Grumpy](https://github.com/google/grumpy)-更多的编译器比解释器更强大的CPython2.7替换 (alpha)。
 * [IronPython](https://github.com/IronLanguages/ironpython3)-C # 编写的Python编程语言的实现。
 * [Jython](https://hg.python.org/jython)用Java编写的JVM的Python编程语言的实现。
@@ -735,7 +735,7 @@
 * [Numba](http://numba.pydata.org/)-针对科学Python的LLVM的Python JIT编译器。
 * [PeachPy](https://github.com/Maratyszcza/PeachPy)-嵌入在Python中的x86-64汇编器。
 * [Pyjion](https://github.com/Microsoft/Pyjion)-基于CoreCLR的Python JIT。
-* [PyPy](https://foss.heptapod.net/pypy/pypy)-Python语言的非常快速且合规的实现。
+* [PyPy](https://foss.heptapod.net/pypy/pypy)-一个非常快速和兼容的Python语言实现。
 * [Pyston](https://github.com/pyston/pyston/)-使用JIT技术的Python实现。
 * [Stackless Python](https://github.com/stackless-dev/stackless)-Python编程语言的增强版本。
 ## 交互式口译员
@@ -757,7 +757,7 @@
 * 用于调度作业的库。* 
 
 * [Airflow](https://airflow.apache.org/)-Airflow是一个以编程方式创作，安排和监控工作流程的平台。
-* [APScheduler](http://apscheduler.readthedocs.io/en/latest/)-一个轻便但功能强大的进程内任务调度程序，可让您安排功能。
+* [APScheduler](http://apscheduler.readthedocs.io/en/latest/)-轻巧但功能强大的进程内任务计划程序，可让您安排功能。
 * [django-schedule](https://github.com/thauber/django-schedule)-Django的日历应用程序。
 * [doit](http://pydoit.org/)-一个任务运行器和构建工具。
 * [gunnery](https://github.com/gunnery/gunnery)-用于具有基于web的界面的分布式系统的多用途任务执行工具。
@@ -788,7 +788,7 @@
 * [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html)-[Apache Spark](http://spark.apache.org/)的可扩展机器学习库。
 * [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise)-一个轻量级的Python包装器[Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/)。
 * [xgboost](https://github.com/dmlc/xgboost)-一个可扩展，可移植和分布式梯度提升库。
-* [MindsDB](https://github.com/mindsdb/mindsdb)-MindsDB是用于现有数据库的开源AI层，可让您轻松地使用标准查询开发，训练和部署最先进的机器学习模型。
+* [MindsDB](https://github.com/mindsdb/mindsdb)-MindsDB是现有数据库的开源AI层，使您可以使用标准查询轻松开发，训练和部署最先进的机器学习模型。
 ## Microsoft Windows
 
 * Microsoft Windows上的Python编程。* 
@@ -810,7 +810,7 @@
 * [tryton](http://www.tryton.org/)-通用业务框架。
 ## 自然语言处理
 
-* 使用人类语言的库。* 
+* 用于处理人类语言的库。* 
 
 - 概述
   * [gensim](https://github.com/RaRe-Technologies/gensim)-人类的主题建模。
@@ -861,14 +861,14 @@
   * [redisco](https://github.com/kiddouk/redisco)-一个Python库，用于保存在Redis中的简单模型和容器。
 ## 包管理
 
-* 用于包和依赖关系管理的库。* 
+* 用于包和依赖项管理的库。* 
 
 * [pip](https://pip.pypa.io/en/stable/)-Python的软件包安装程序。
-  * [pip-tools](https://github.com/jazzband/pip-tools)-一组工具，使您的固定Python依赖关系保持新鲜。
+  * [pip-tools](https://github.com/jazzband/pip-tools)-一组工具，以保持你的固定的Python依赖新鲜。
   * [PyPI](https://pypi.org/)
 * [conda](https://github.com/conda/conda/)-跨平台，Python不可知的二进制包管理器。
 * [poetry](https://github.com/sdispater/poetry)-Python依赖管理和打包变得容易。
-## 软件包存储库
+## 包存储库
 
 * 本地PyPI存储库服务器和代理。* 
 
@@ -891,7 +891,7 @@
 * [django-rules](https://github.com/dfunckt/django-rules)-一个微小但功能强大的应用程序，为Django提供对象级权限，而不需要数据库。
 ## 流程
 
-* 用于启动和与操作系统进程通信的库。* 
+* 用于启动OS进程并与之通信的库。* 
 
 * [delegator.py](https://github.com/amitt001/delegator.py)-[Subprocesses](https://docs.python.org/3/library/subprocess.html)对于人类2.0。
 * [sarge](https://sarge.readthedocs.io/en/latest/)-子进程的另一个包装器。
@@ -930,7 +930,7 @@
   * [cornice](https://github.com/Cornices/cornice)-金字塔的RESTful框架。
 * 与框架无关
   * [apistar](https://github.com/encode/apistar)-为Python 3设计的智能Web API框架。
-  * [falcon](https://github.com/falconry/falcon)-用于构建云api和web应用后端的高性能框架。
+  * [falcon](https://github.com/falconry/falcon)-用于构建云api和web应用程序后端的高性能框架。
   * [fastapi](https://github.com/tiangolo/fastapi)-一个现代，快速的web框架，用于基于标准Python类型提示使用Python 3.6构建api。
   * [hug](https://github.com/hugapi/hug)-一个Python 3框架，用于干净地公开api。
   * [sandman2](https://github.com/jeffknupp/sandman2)-用于现有数据库驱动系统的自动化REST api。
@@ -944,7 +944,7 @@
 * [rospy](http://wiki.ros.org/rospy)-这是一个用于ROS (机器人操作系统) 的库。
 ## RPC服务器
 
-* RPC兼容服务器。* 
+* 兼容RPC的服务器。* 
 
 * [RPyC](https://github.com/tomerfiliba/rpyc)(远程Python调用)-用于Python的透明且对称的RPC库
 * [zeroRPC](https://github.com/0rpc/zerorpc-python)-zerorpc是一个灵活的RPC实现基于[ZeroMQ](http://zeromq.org/)和[MessagePack](http://msgpack.org/)。
@@ -952,13 +952,13 @@
 
 * 科学计算库。另请参见[Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists).* 
 
-* [astropy](http://www.astropy.org/)-天文学的社区Python库。
+* [astropy](http://www.astropy.org/)-一个用于天文学的社区Python库。
 * [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)-为全自动高通量测序分析提供最佳实践管道。
 * [bccb](https://github.com/chapmanb/bcbb)-收集与生物分析相关的有用代码。
 * [Biopython](http://biopython.org/wiki/Main_Page)Biopython是一套免费的生物计算工具。
 * [cclib](http://cclib.github.io/)-用于解析和解释计算化学包的结果的库。
 * [Colour](http://colour-science.org/)-实现全面的颜色理论转换和算法。
-* [Karate Club](https://github.com/benedekrozemberczki/karateclub)·图形结构化数据的无监督机器学习工具箱
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub)-用于图形结构化数据的无监督机器学习工具箱。
 * [NetworkX](https://networkx.github.io/)-用于复杂网络的高生产率软件。
 * [NIPY](http://nipy.org)-神经影像工具包的集合。
 * [NumPy](http://www.numpy.org/)-使用Python进行科学计算的基本软件包。
@@ -969,16 +969,16 @@
 * [QuTiP](http://qutip.org/)-Python中的量子工具箱。
 * [RDKit](http://www.rdkit.org/)-化学信息学和机器学习软件。
 * [SciPy](https://www.scipy.org/)-基于Python的数学，科学和工程开源软件生态系统。
-* [SimPy](https://gitlab.com/team-simpy/simpy)-基于过程的离散事件仿真框架。
+* [SimPy](https://gitlab.com/team-simpy/simpy)·基于过程的离散事件仿真框架
 * [statsmodels](https://github.com/statsmodels/statsmodels)-Python中的统计建模和计量经济学。
-* [SymPy](https://github.com/sympy/sympy)-符号数学的Python库。
+* [SymPy](https://github.com/sympy/sympy)-用于符号数学的Python库。
 * [Zipline](https://github.com/quantopian/zipline)-一个Pythonic算法交易库。
 ## 搜索
 
 * 用于对数据进行索引和执行搜索查询的库和软件。* 
 
 * [django-haystack](https://github.com/django-haystack/django-haystack)-Django的模块化搜索。
-* [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py)-Elasticsearch的官方高级Python客户端。
+* [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py)-用于Elasticsearch的官方高级Python客户端。
 * [elasticsearch-py](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html)-官方的低级Python客户端[Elasticsearch](https://www.elastic.co/products/elasticsearch)。
 * [pysolr](https://github.com/django-haystack/pysolr)-一个轻量级的Python包装器[Apache Solr](https://lucene.apache.org/solr/)。
 * [whoosh](http://whoosh.readthedocs.io/en/latest/)-一个快速，纯Python搜索引擎库。
@@ -1003,7 +1003,7 @@
 * [xonsh](https://github.com/xonsh/xonsh/)-Python驱动，跨平台，Unix凝视shell语言和命令提示符。
 ## 特定格式处理
 
-* 用于解析和处理特定文本格式的库。* 
+* 用于解析和操作特定文本格式的库。* 
 
 * 概述
   * [tablib](https://github.com/jazzband/tablib)-用于XLS，CSV，JSON，YAML中的表格数据集的模块。
@@ -1019,7 +1019,7 @@
   * [xlwt](https://github.com/python-excel/xlwt)/[xlrd](https://github.com/python-excel/xlrd)-从Excel文件中写入和读取数据和格式化信息。
 * PDF
   * [PDFMiner](https://github.com/euske/pdfminer)-从PDF文档中提取信息的工具。
-  * [PyPDF2](https://github.com/mstamy2/PyPDF2)-能够拆分，合并和转换PDF页面的库。
+  * [PyPDF2](https://github.com/mstamy2/PyPDF2)-能够拆分、合并和转换PDF页面的库。
   * [ReportLab](https://www.reportlab.com/opensource/)-允许快速创建丰富的PDF文档。
 * 降价
   * [Mistune](https://github.com/lepture/mistune)-Markdown的最快和全功能的纯Python解析器。
@@ -1049,7 +1049,7 @@
 * 用于处理任务队列的库。* 
 
 * [celery](https://docs.celeryproject.org/en/stable/)-基于分布式消息传递的异步任务队列/作业队列。
-* [dramatiq](https://github.com/Bogdanp/dramatiq)-一个快速可靠的Python 3后台任务处理库。
+* [dramatiq](https://github.com/Bogdanp/dramatiq)-适用于Python 3的快速可靠的后台任务处理库。
 * [huey](https://github.com/coleifer/huey)-小多线程任务队列。
 * [mrq](https://github.com/pricingassistant/mrq)-Python中使用Redis和gevent的分布式工作任务队列。
 * [rq](https://github.com/rq/rq)-Python的简单作业队列。
@@ -1065,10 +1065,10 @@
 * 用于测试代码库和生成测试数据的库。* 
 
 * 测试框架
-  * [hypothesis](https://github.com/HypothesisWorks/hypothesis)假设是一个先进的Quickcheck风格的基于属性的测试库。
+  * [hypothesis](https://github.com/HypothesisWorks/hypothesis)-假设是一个基于属性的高级Quickcheck风格的测试库。
   * [nose2](https://github.com/nose-devs/nose2)-继任者,基于 “单元测试2”。
-  * [pytest](https://docs.pytest.org/en/latest/)-一个成熟的全功能的Python测试工具。
-  * [Robot Framework](https://github.com/robotframework/robotframework)-通用测试自动化框架。
+  * [pytest](https://docs.pytest.org/en/latest/)-成熟的全功能Python测试工具。
+  * [Robot Framework](https://github.com/robotframework/robotframework)-一个通用的测试自动化框架。
   * [unittest](https://docs.python.org/3/library/unittest.html)(Python标准库) 单元测试框架。
 * 测试跑步者
   * [green](https://github.com/CleanCut/green)-一个干净，丰富多彩的测试运行。
@@ -1083,7 +1083,7 @@
   * [splinter](https://github.com/cobrateam/splinter)-用于测试web应用程序的开源工具。
 * 模拟
   * [doublex](https://pypi.org/project/doublex/)-强大的测试双打Python框架。
-  * [freezegun](https://github.com/spulec/freezegun)-通过嘲笑datetime模块的时间旅行。
+  * [freezegun](https://github.com/spulec/freezegun)-通过嘲笑datetime模块穿越时间。
   * [httmock](https://github.com/patrys/httmock)-用于Python 2.6和3.2请求的模拟库。
   * [httpretty](https://github.com/gabrielfalcao/HTTPretty)-用于Python的HTTP请求模拟工具。
   * [mock](https://docs.python.org/3/library/unittest.mock.html)-(Python标准库) 一个嘲笑和修补库。
@@ -1103,7 +1103,7 @@
   * [radar](https://pypi.org/project/radar/)-生成随机日期时间/时间。
 ## 文本处理
 
-* 用于解析和处理纯文本的库。* 
+* 用于解析和操作纯文本的库。* 
 
 * 概述
   * [chardet](https://github.com/chardet/chardet)Python 2/3兼容字符编码检测器。
@@ -1133,7 +1133,7 @@
   * [sqlparse](https://github.com/andialbrecht/sqlparse)-非验证SQL解析器。
 ## 第三方api
 
-* 用于访问第三方服务api的库。另请参见[List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).* 
+* 用于访问第三方服务api的库。另见[List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).* 
 
 * [apache-libcloud](https://libcloud.apache.org/)-一个用于所有云的Python库。
 * [boto3](https://github.com/boto/boto3)-Amazon Web Services的Python接口。
@@ -1166,7 +1166,7 @@
 * [django-storages](https://github.com/jschneier/django-storages)-Django的自定义存储后端集合
 * [fanstatic](http://www.fanstatic.org/en/latest/)-将静态文件依赖项作为Python包进行打包、优化和提供。
 * [fileconveyor](http://wimleers.com/fileconveyor)-用于检测文件并将其同步到cdn，S3和FTP的守护程序。
-* [flask-assets](https://github.com/miracle2k/flask-assets)-帮助您将webasssets集成到您的Flask应用程序中。
+* [flask-assets](https://github.com/miracle2k/flask-assets)-帮助您将webasset集成到您的Flask应用程序中。
 * [webassets](https://github.com/miracle2k/webassets)-捆绑，优化和管理静态资源的唯一缓存破坏url。
 ## Web内容提取
 
@@ -1205,7 +1205,7 @@
   * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
   * [Pyramid](https://pylonsproject.org/)-一个小型，快速，脚踏实地的开源Python web框架。
   * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
-  * [Masonite](https://github.com/MasoniteFramework/masonite)-以开发人员为中心的现代Python web框架
+  * [Masonite](https://github.com/MasoniteFramework/masonite)-现代和以开发人员为中心的Python web框架。
 * 异步
   * [Tornado](http://www.tornadoweb.org/en/latest/)-一个web框架和异步网络库。
 ## WebSocket
@@ -1267,5 +1267,5 @@
 
 我会保持一些拉请求打开，如果我不知道这些库是否Awesome ，你可以[vote for them](https://github.com/vinta/awesome-python/pulls)通过添加: 1: 他们。拉取请求将在其投票达到时合并** 20** 。
 
-如果您对此自以为是的清单有任何疑问，请随时与我联系[@VintaChen](https://twitter.com/VintaChen)在Twitter上或在GitHub上打开一个问题。
+如果您对这个自以为是的列表有任何疑问，请随时与我联系[@VintaChen](https://twitter.com/VintaChen)在Twitter上或在GitHub上打开一个问题。
 
