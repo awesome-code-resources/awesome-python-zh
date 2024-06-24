@@ -1,4 +1,5 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-python-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+本项目的原始仓库地址为[这里](https://github.com/vinta/awesome-python)。
 # Awesome Python[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Awesome Python框架，库，软件和资源的自以为是的列表。
