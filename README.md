@@ -1,12 +1,11 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-python-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
 本项目的原始仓库地址为[这里](https://github.com/vinta/awesome-python)。
-# Awesome Python[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-Awesome Python框架，库，软件和资源的自以为是的列表。
+# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+令人敬畏的Python框架，库，软件和资源的自以为是的列表。
 
 灵感来自[awesome-php](https://github.com/ziadoz/awesome-php)。
 
-- [Awesome Python](#Awesome-Python)
+- [真棒Python](#真棒Python)
   - [管理面板](#管理面板)
   - [算法和设计模式](#算法和设计模式)
   - [ASGI服务器](#ASGI服务器)
@@ -527,7 +526,7 @@ Awesome Python框架，库，软件和资源的自以为是的列表。
 * [graphene](https://github.com/graphql-python/graphene/)-Python的GraphQL框架。
 ## 游戏开发
 
-*Awesome 游戏开发库。* 
+*真棒游戏开发库。* 
 
 * [Arcade](https://api.arcade.academy/en/latest/)-Arcade是一个现代的Python框架，用于制作具有引人注目的图形和声音的游戏。
 * [Cocos2d](https://www.cocos.com/en/cocos2d-x)cocos2d是用于构建2D游戏，演示和其他图形/交互式应用程序的框架。
@@ -802,7 +801,7 @@ Awesome Python框架，库，软件和资源的自以为是的列表。
   * [sanic](https://github.com/sanic-org/sanic)-一个Python 3.6的web服务器和web框架，它是为了快速而编写的。
 ## 机器人技术
 
-*机器人库。* 
+*机器人图书馆。* 
 
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)-这是带有可视化的各种机器人算法的汇编。
 * [rospy](http://wiki.ros.org/rospy)-这是一个用于ROS (机器人操作系统) 的库。
@@ -814,7 +813,7 @@ Awesome Python框架，库，软件和资源的自以为是的列表。
 * [zeroRPC](https://github.com/0rpc/zerorpc-python)-zerorpc是一个灵活的RPC实现基于[ZeroMQ](http://zeromq.org/)和[MessagePack](http://msgpack.org/)。
 ## 科学
 
-*科学计算库。另请参见[Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists).* 
+*科学计算图书馆。另请参见[Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists).* 
 
 * [astropy](http://www.astropy.org/)-一个用于天文学的社区Python库。
 * [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)-为全自动高通量测序分析提供最佳实践管道。
@@ -1083,8 +1082,7 @@ Awesome Python框架，库，软件和资源的自以为是的列表。
 * [uwsgi](https://uwsgi-docs.readthedocs.io/en/latest/)-一个项目旨在开发一个完整的堆栈来构建托管服务，用C编写。
 * [waitress](https://github.com/Pylons/waitress)-多线程，权力金字塔。
 * [werkzeug](https://github.com/pallets/werkzeug)-一个用于Python的WSGI实用程序库，为Flask提供动力，可以轻松地嵌入到您自己的项目中。
-# 资源
-
+# Resources
 在哪里发现学习资源或新的Python库。
 
 ## 通讯
@@ -1100,8 +1098,7 @@ Awesome Python框架，库，软件和资源的自以为是的列表。
 * [Talk Python To Me](https://talkpython.fm/)
 * [Python Test](https://podcast.pythontest.com/)
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
-# 贡献
-
+# Contributing
 您的贡献总是受欢迎的!请看一下[contribution guidelines](https://github.com/vinta/awesome-python/blob/master/%5Bthis%5D(CONTRIBUTING.md))首先。
 
 如果您对这个自以为是的列表有任何疑问，请随时与我联系[@VintaChen](https://twitter.com/VintaChen)在Twitter上或在GitHub上打开一个问题。
